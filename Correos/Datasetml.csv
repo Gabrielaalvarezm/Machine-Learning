@@ -1,0 +1,1001 @@
+nombre,fecha,asunto,longitud_cuerpo,num_adjuntos,num_links,remitente_empresa,contiene_palabras_dinero,urgencia,clasificacion
+María González,2024-01-15,Informe mensual de ventas,850,2,3,1,0,0,HAM
+Carlos Rodríguez,2024-01-16,¡FELICIDADES! Has ganado $50000 USD,320,0,5,0,1,1,SPAM
+Ana López,2024-01-17,Reunión de equipo - Jueves 10am,450,1,1,1,0,0,HAM
+Pedro Martínez,2024-01-18,URGENTE: Confirma tu cuenta bancaria,280,0,8,0,1,1,SPAM
+Laura García,2024-01-19,Propuesta de proyecto Q1 2024,1200,3,2,1,0,0,HAM
+Roberto Silva,2024-01-20,Premio en efectivo te espera - ¡ACTÚA YA!,450,0,12,0,1,1,SPAM
+Carmen Herrera,2024-01-21,Actualización de políticas de la empresa,680,1,4,1,0,0,HAM
+Diego Morales,2024-01-22,Re: Presupuesto para campaña publicitaria,920,2,1,1,0,0,HAM
+Sofía Ramírez,2024-01-23,¡Increíble oferta por tiempo limitado!,340,0,7,0,1,1,SPAM
+Andrés Castro,2024-01-24,Cronograma de entregas - Febrero,560,1,2,1,0,0,HAM
+Valeria Jiménez,2024-01-25,$10000 dólares esperándote - Solo hoy,230,0,9,0,1,1,SPAM
+Fernando Torres,2024-01-26,Análisis de resultados trimestrales,1050,4,3,1,0,0,HAM
+Gabriela Vargas,2024-01-27,ACCIÓN REQUERIDA: Verificación inmediata,380,0,6,0,0,1,SPAM
+Nicolás Mendoza,2024-01-28,Invitación evento networking,720,1,5,1,0,0,HAM
+Isabella Cruz,2024-01-29,Gana dinero fácil desde casa - ¡Garantizado!,410,0,8,0,1,1,SPAM
+Mateo Ruiz,2024-01-30,Backup semanal completado exitosamente,190,0,1,1,0,0,HAM
+Camila Ortega,2024-01-31,Transferencia bancaria pendiente - URGENTE,260,0,4,0,1,1,SPAM
+Sebastián Peña,2024-02-01,Capacitación en nuevas herramientas,640,2,3,1,0,0,HAM
+Valentina Rojas,2024-02-02,Millones en premios - Participa ahora,350,0,11,0,1,1,SPAM
+Alejandro Mora,2024-02-03,Revisión de código - Pull Request #234,480,0,2,1,0,0,HAM
+Daniela Aguilar,2024-02-04,¡Tu préstamo aprobado por $25000!,290,0,7,0,1,1,SPAM
+Francisco Reyes,2024-02-05,Planificación sprint próximo,530,1,1,1,0,0,HAM
+Lucía Vega,2024-02-06,ÚLTIMA OPORTUNIDAD - Reclama tu premio,180,0,5,0,1,1,SPAM
+Emiliano Soto,2024-02-07,Documentación API v2.1 actualizada,780,3,4,1,0,0,HAM
+Mariana Campos,2024-02-08,Dinero gratis - Sin verificación necesaria,220,0,6,0,1,1,SPAM
+Joaquín Rivera,2024-02-09,Revisión contractual pendiente,890,2,2,1,0,0,HAM
+Renata Guerrero,2024-02-10,¡Congratulaciones! Premio de $75000,320,0,9,0,1,1,SPAM
+Patricio León,2024-02-11,Métricas de performance enero,650,1,3,1,0,0,HAM
+Constanza Flores,2024-02-12,URGENTE: Confirma transferencia ahora,240,0,8,0,1,1,SPAM
+Maximiliano Ramos,2024-02-13,Feedback sesión de brainstorming,420,0,1,1,0,0,HAM
+Amparo Delgado,2024-02-14,Oferta especial - Gana $50000 hoy,380,0,10,0,1,1,SPAM
+Rodrigo Navarro,2024-02-15,Migración base de datos programada,560,2,2,1,0,0,HAM
+Esperanza Cabrera,2024-02-16,Reclama tu herencia de $2 millones,450,0,7,0,1,1,SPAM
+Tomás Sandoval,2024-02-17,Retrospectiva del equipo de desarrollo,720,1,1,1,0,0,HAM
+Paloma Contreras,2024-02-18,Inversión garantizada - ROI del 500%,330,0,12,0,1,1,SPAM
+Ignacio Medina,2024-02-19,Informe de seguridad mensual,980,3,4,1,0,0,HAM
+Rosario Espinoza,2024-02-20,¡Felicidades! Sorteo ganado - $30000,270,0,6,0,1,1,SPAM
+Agustín Parra,2024-02-21,Configuración nuevo servidor,340,1,3,1,0,0,HAM
+Monserrat Ibarra,2024-02-22,ACCIÓN INMEDIATA: Reclama premio,190,0,5,0,1,1,SPAM
+Esteban Córdoba,2024-02-23,Propuesta mejoras en UX/UI,1150,4,2,1,0,0,HAM
+Fernanda Guzmán,2024-02-24,Oportunidad única - Millones esperándote,420,0,9,0,1,1,SPAM
+Cristóbal Carrasco,2024-02-25,Status report - Proyecto Alpha,680,2,1,1,0,0,HAM
+Antonia Bravo,2024-02-26,Tu cuenta bancaria - Verificación urgente,310,0,8,0,1,1,SPAM
+Benjamín Castillo,2024-02-27,Integración con servicio de pagos,850,3,5,1,0,0,HAM
+Victoria Santander,2024-02-28,¡GANASTE! Premio en efectivo disponible,220,0,11,0,1,1,SPAM
+Gonzalo Miranda,2024-02-29,Revisión arquitectura del sistema,1040,2,3,1,0,0,HAM
+Isidora Valdés,2024-03-01,Transferencia internacional - URGENTE,280,0,6,0,1,1,SPAM
+Salvador Fuentes,2024-03-02,Onboarding nuevo desarrollador,590,1,2,1,0,0,HAM
+Magdalena Cáceres,2024-03-03,Dinero fácil - Solo por tiempo limitado,350,0,7,0,1,1,SPAM
+Facundo Álvarez,2024-03-04,Testing automatizado implementado,470,0,1,1,0,0,HAM
+Florencia Barrios,2024-03-05,¡Increíble! $100000 en premios,190,0,10,0,1,1,SPAM
+Leandro Salinas,2024-03-06,Backup y restauración - Procedimientos,760,2,4,1,0,0,HAM
+Javiera Montoya,2024-03-07,ÚLTIMO DÍA - Reclama tu dinero,240,0,5,0,1,1,SPAM
+Matías Henríquez,2024-03-08,Code review - Mejoras sugeridas,520,1,2,1,0,0,HAM
+Catalina Araya,2024-03-09,Premio millonario - Confirma identidad,330,0,9,0,1,1,SPAM
+Axel Maldonado,2024-03-10,Implementación CI/CD pipeline,890,3,3,1,0,0,HAM
+Javiera Moreno,2024-03-11,¡Felicitaciones! Lotería ganada,260,0,8,0,1,1,SPAM
+Claudio Sepúlveda,2024-03-12,Planificación recursos Q2,640,2,1,1,0,0,HAM
+Rocío Tapia,2024-03-13,Transferencia $45000 - Confirma datos,210,0,6,0,1,1,SPAM
+Bastián Carvajal,2024-03-14,Documentación técnica actualizada,780,1,4,1,0,0,HAM
+Macarena Poblete,2024-03-15,URGENTE: Premio vence hoy,180,0,7,0,1,1,SPAM
+Arturo Muñoz,2024-03-16,Métricas de calidad - Marzo,550,2,2,1,0,0,HAM
+Javiera Martínez,2024-03-17,Herencia millonaria - Documentos requeridos,420,0,11,0,1,1,SPAM
+Cristián Bustamante,2024-03-18,Migración a microservicios,1200,4,5,1,0,0,HAM
+Antonia Lagos,2024-03-19,¡Ganaste $80000! Reclama ahora,290,0,9,0,1,1,SPAM
+Vicente Godoy,2024-03-20,Análisis logs de aplicación,480,1,1,1,0,0,HAM
+Josefa Cornejo,2024-03-21,Inversión segura - Ganancias garantizadas,380,0,8,0,1,1,SPAM
+Álvaro Espinosa,2024-03-22,Configuración entorno desarrollo,320,0,3,1,0,0,HAM
+María José Herrera,2024-03-23,¡ÚLTIMO AVISO! Reclama premio,160,0,5,0,1,1,SPAM
+Ricardo Zúñiga,2024-03-24,Performance tuning base datos,690,2,2,1,0,0,HAM
+Francisca Quiroz,2024-03-25,Premio en efectivo - 24 horas restantes,250,0,6,0,1,1,SPAM
+Leonardo Vera,2024-03-26,Integración API terceros,580,1,4,1,0,0,HAM
+Paulina Contreras,2024-03-27,¡Felicidades! $60000 disponibles,340,0,10,0,1,1,SPAM
+Felipe Aravena,2024-03-28,Security audit completado,820,3,3,1,0,0,HAM
+Camila Rojas,2024-03-29,Transferencia urgente - Verificación,220,0,7,0,1,1,SPAM
+Diego Ramírez,2024-03-30,Deployment producción exitoso,410,1,1,1,0,0,HAM
+Valentina Silva,2024-03-31,ACCIÓN REQUERIDA - Premio millonario,300,0,12,0,1,1,SPAM
+Gonzalo Pérez,2024-04-01,Refactoring módulo de pagos,750,2,2,1,0,0,HAM
+Isidora González,2024-04-02,¡Increíble oferta! Dinero garantizado,280,0,8,0,1,1,SPAM
+Sebastián López,2024-04-03,Monitoring y alertas configurado,460,0,3,1,0,0,HAM
+Constanza Martín,2024-04-04,Premio de $90000 - Solo para ti,210,0,9,0,1,1,SPAM
+Mateo García,2024-04-05,Load testing resultados,620,1,1,1,0,0,HAM
+Fernanda Rodríguez,2024-04-06,¡URGENTE! Confirma ganancia,190,0,6,0,1,1,SPAM
+Nicolás Fernández,2024-04-07,Implementación feature flags,540,2,4,1,0,0,HAM
+Sofía Castillo,2024-04-08,Oportunidad única - $120000,320,0,11,0,1,1,SPAM
+Andrés Torres,2024-04-09,Optimización algoritmos búsqueda,980,3,2,1,0,0,HAM
+Javiera Morales,2024-04-10,Transferencia internacional pendiente,260,0,7,0,1,1,SPAM
+Carlos Jiménez,2024-04-11,Dashboard analytics implementado,710,1,5,1,0,0,HAM
+Valentina Castro,2024-04-12,¡Felicitaciones! Lotería internacional,350,0,10,0,1,1,SPAM
+Francisco Vargas,2024-04-13,Backup automatizado configurado,380,0,1,1,0,0,HAM
+Camila Mendoza,2024-04-14,ÚLTIMO DÍA - Millones esperándote,240,0,8,0,1,1,SPAM
+Ignacio Cruz,2024-04-15,Testing de integración completado,590,2,3,1,0,0,HAM
+Macarena Ruiz,2024-04-16,Premio especial - $70000 disponibles,180,0,5,0,1,1,SPAM
+Benjamín Ortega,2024-04-17,Documentación API REST finalizada,850,4,6,1,0,0,HAM
+Antonia Peña,2024-04-18,¡Ganaste! Reclama premio inmediatamente,290,0,9,0,1,1,SPAM
+Tomás Rojas,2024-04-19,Métricas de usuario - Abril,460,1,2,1,0,0,HAM
+Florencia Mora,2024-04-20,URGENTE: Herencia millonaria disponible,380,0,12,0,1,1,SPAM
+Salvador Aguilar,2024-04-21,Implementación cache distribuido,720,2,1,1,0,0,HAM
+Esperanza Reyes,2024-04-22,¡Increíble! Premio de $110000,220,0,7,0,1,1,SPAM
+Maximiliano Vega,2024-04-23,Code coverage análisis completado,510,1,4,1,0,0,HAM
+Amparo Soto,2024-04-24,Transferencia urgente - Confirma ahora,270,0,6,0,1,1,SPAM
+Rodrigo Campos,2024-04-25,Migration script ejecutado exitosamente,340,0,2,1,0,0,HAM
+Constanza Guerrero,2024-04-26,¡FELICIDADES! $85000 ganados,310,0,11,0,1,1,SPAM
+Patricio León,2024-04-27,Logs analysis - Patrones identificados,680,3,3,1,0,0,HAM
+Renata Flores,2024-04-28,Premio final - 48 horas para reclamar,250,0,8,0,1,1,SPAM
+Emiliano Ramos,2024-04-29,Unit tests coverage al 95%,420,1,1,1,0,0,HAM
+Mariana Delgado,2024-04-30,¡ÚLTIMO AVISO! Millones disponibles,190,0,10,0,1,1,SPAM
+Eduardo Navarro,2024-05-01,Revisión trimestral de presupuestos,920,3,2,1,0,0,HAM
+Catalina Sandoval,2024-05-02,¡INCREÍBLE! Has sido seleccionado para $200000,280,0,13,0,1,1,SPAM
+Joaquín Medina,2024-05-03,Implementación nuevas funcionalidades,650,2,1,1,0,0,HAM
+Esperanza Espinoza,2024-05-04,URGENTE: Reclama tu premio antes que expire,220,0,8,0,1,1,SPAM
+Agustín Parra,2024-05-05,Análisis de vulnerabilidades completado,780,1,4,1,0,0,HAM
+Monserrat Ibarra,2024-05-06,¡Felicitaciones! Lotería europea ganada,340,0,11,0,1,1,SPAM
+Esteban Córdoba,2024-05-07,Reunión stakeholders - Viernes 2pm,490,1,1,1,0,0,HAM
+Fernanda Guzmán,2024-05-08,Millones en premios - Participa gratis,190,0,9,0,1,1,SPAM
+Cristóbal Carrasco,2024-05-09,Deploy hotfix en producción,380,0,2,1,0,0,HAM
+Antonia Bravo,2024-05-10,¡Tu herencia de $5 millones lista!,420,0,12,0,1,1,SPAM
+Benjamín Castillo,2024-05-11,Documentación proceso QA,560,2,3,1,0,0,HAM
+Victoria Santander,2024-05-12,ACCIÓN INMEDIATA: Premio vence mañana,250,0,6,0,1,1,SPAM
+Gonzalo Miranda,2024-05-13,Configuración entorno testing,710,1,2,1,0,0,HAM
+Isidora Valdés,2024-05-14,Transferencia bancaria $150000 pendiente,320,0,7,0,1,1,SPAM
+Salvador Fuentes,2024-05-15,Refactoring legacy code iniciado,840,3,1,1,0,0,HAM
+Magdalena Cáceres,2024-05-16,¡Ganaste el sorteo internacional!,180,0,10,0,1,1,SPAM
+Facundo Álvarez,2024-05-17,Performance metrics - Mayo,450,1,3,1,0,0,HAM
+Florencia Barrios,2024-05-18,Oportunidad única - Dinero garantizado,290,0,8,0,1,1,SPAM
+Leandro Salinas,2024-05-19,API versioning implementado,620,2,4,1,0,0,HAM
+Javiera Montoya,2024-05-20,¡URGENTE! Confirma premio de $300000,210,0,14,0,1,1,SPAM
+Matías Henríquez,2024-05-21,Integración servicios terceros,730,1,2,1,0,0,HAM
+Catalina Araya,2024-05-22,Premio millonario - Solo 12 horas restantes,360,0,9,0,1,1,SPAM
+Axel Maldonado,2024-05-23,Database optimization completada,480,0,1,1,0,0,HAM
+Javiera Moreno,2024-05-24,¡Increíble! $250000 esperándote,170,0,11,0,1,1,SPAM
+Claudio Sepúlveda,2024-05-25,Sprint review - Resultados Q2,590,2,1,1,0,0,HAM
+Rocío Tapia,2024-05-26,Transferencia internacional URGENTE,240,0,5,0,1,1,SPAM
+Bastián Carvajal,2024-05-27,Monitoring dashboard actualizado,350,1,3,1,0,0,HAM
+Macarena Poblete,2024-05-28,¡FELICIDADES! Herencia disponible,320,0,8,0,1,1,SPAM
+Arturo Muñoz,2024-05-29,Security patches aplicados,410,0,2,1,0,0,HAM
+Javiera Martínez,2024-05-30,Premio especial - Reclama $400000,280,0,12,0,1,1,SPAM
+Cristián Bustamante,2024-05-31,Load balancer configurado,680,3,4,1,0,0,HAM
+Antonia Lagos,2024-06-01,¡Ganaste! Sorteo millonario confirmado,190,0,10,0,1,1,SPAM
+Vicente Godoy,2024-06-02,Backup strategy documentada,520,2,1,1,0,0,HAM
+Josefa Cornejo,2024-06-03,ÚLTIMO DÍA - Reclama tu fortuna,220,0,7,0,1,1,SPAM
+Álvaro Espinosa,2024-06-04,CI/CD pipeline optimizado,760,1,3,1,0,0,HAM
+María José Herrera,2024-06-05,¡Increíble oferta! $180000 garantizados,340,0,13,0,1,1,SPAM
+Ricardo Zúñiga,2024-06-06,Arquitectura microservicios definida,890,4,2,1,0,0,HAM
+Francisca Quiroz,2024-06-07,Premio internacional - Confirma identidad,260,0,6,0,1,1,SPAM
+Leonardo Vera,2024-06-08,Testing automation framework,630,1,4,1,0,0,HAM
+Paulina Contreras,2024-06-09,¡URGENTE! $500000 disponibles ahora,180,0,11,0,1,1,SPAM
+Felipe Aravena,2024-06-10,Code quality metrics actualizadas,470,2,1,1,0,0,HAM
+Camila Rojas,2024-06-11,Transferencia urgente - Verificación requerida,310,0,8,0,1,1,SPAM
+Diego Ramírez,2024-06-12,Container orchestration implementado,720,3,5,1,0,0,HAM
+Valentina Silva,2024-06-13,¡Felicitaciones! Lotería millonaria,230,0,9,0,1,1,SPAM
+Gonzalo Pérez,2024-06-14,Disaster recovery plan actualizado,580,1,2,1,0,0,HAM
+Isidora González,2024-06-15,Premio final - 6 horas para reclamar,290,0,12,0,1,1,SPAM
+Sebastián López,2024-06-16,OAuth 2.0 implementación completada,440,0,3,1,0,0,HAM
+Constanza Martín,2024-06-17,¡Increíble! Herencia de $8 millones,370,0,10,0,1,1,SPAM
+Mateo García,2024-06-18,Performance tuning base datos,650,2,1,1,0,0,HAM
+Fernanda Rodríguez,2024-06-19,ACCIÓN REQUERIDA - Premio vence hoy,200,0,7,0,1,1,SPAM
+Nicolás Fernández,2024-06-20,Event-driven architecture diseñada,810,3,4,1,0,0,HAM
+Sofía Castillo,2024-06-21,¡Ganaste $600000! Confirma datos,250,0,14,0,1,1,SPAM
+Andrés Torres,2024-06-22,GraphQL API implementada,540,1,2,1,0,0,HAM
+Javiera Morales,2024-06-23,Transferencia millonaria - URGENTE,320,0,6,0,1,1,SPAM
+Carlos Jiménez,2024-06-24,Logging centralizado configurado,390,0,1,1,0,0,HAM
+Valentina Castro,2024-06-25,¡ÚLTIMO AVISO! Premio de $750000,160,0,11,0,1,1,SPAM
+Francisco Vargas,2024-06-26,Service mesh implementado,700,2,3,1,0,0,HAM
+Camila Mendoza,2024-06-27,Oportunidad única - Millones esperándote,280,0,8,0,1,1,SPAM
+Ignacio Cruz,2024-06-28,Chaos engineering tests ejecutados,460,1,2,1,0,0,HAM
+Macarena Ruiz,2024-06-29,¡Felicitaciones! $350000 disponibles,340,0,13,0,1,1,SPAM
+Benjamín Ortega,2024-06-30,Feature toggles implementados,620,3,1,1,0,0,HAM
+Antonia Peña,2024-07-01,Premio especial - Solo para ti,190,0,9,0,1,1,SPAM
+Tomás Rojas,2024-07-02,Observability stack completado,750,2,4,1,0,0,HAM
+Florencia Mora,2024-07-03,¡URGENTE! Herencia lista para cobrar,270,0,7,0,1,1,SPAM
+Salvador Aguilar,2024-07-04,Circuit breaker pattern implementado,480,1,2,1,0,0,HAM
+Esperanza Reyes,2024-07-05,Transferencia $450000 - Confirma ahora,220,0,12,0,1,1,SPAM
+Maximiliano Vega,2024-07-06,Distributed tracing configurado,590,0,3,1,0,0,HAM
+Amparo Soto,2024-07-07,¡Ganaste! Premio millonario confirmado,360,0,10,0,1,1,SPAM
+Rodrigo Campos,2024-07-08,Rate limiting implementado,410,1,1,1,0,0,HAM
+Constanza Guerrero,2024-07-09,ACCIÓN INMEDIATA - $850000 disponibles,180,0,8,0,1,1,SPAM
+Patricio León,2024-07-10,Health checks automatizados,330,0,2,1,0,0,HAM
+Renata Flores,2024-07-11,¡Increíble oferta! Dinero garantizado,290,0,11,0,1,1,SPAM
+Emiliano Ramos,2024-07-12,Message queuing system implementado,670,2,3,1,0,0,HAM
+Mariana Delgado,2024-07-13,Premio internacional - 24 horas restantes,250,0,6,0,1,1,SPAM
+Joaquín Rivera,2024-07-14,Caching strategy optimizada,520,1,2,1,0,0,HAM
+Renata Guerrero,2024-07-15,¡FELICIDADES! $950000 esperándote,320,0,14,0,1,1,SPAM
+Patricio León,2024-07-16,API gateway configurado,780,3,4,1,0,0,HAM
+Constanza Flores,2024-07-17,Transferencia urgente - Verificación,200,0,5,0,1,1,SPAM
+Maximiliano Ramos,2024-07-18,Security scanning automatizado,440,0,1,1,0,0,HAM
+Amparo Delgado,2024-07-19,¡Ganaste la lotería! $1200000,380,0,12,0,1,1,SPAM
+Rodrigo Navarro,2024-07-20,Blue-green deployment implementado,610,2,2,1,0,0,HAM
+Esperanza Cabrera,2024-07-21,ÚLTIMO DÍA - Reclama tu herencia,240,0,9,0,1,1,SPAM
+Tomás Sandoval,2024-07-22,Feature flag rollout completado,350,1,1,1,0,0,HAM
+Paloma Contreras,2024-07-23,¡Increíble! Premio de $650000,210,0,7,0,1,1,SPAM
+Ignacio Medina,2024-07-24,Compliance audit aprobado,690,3,3,1,0,0,HAM
+Rosario Espinoza,2024-07-25,Premio millonario - Confirma identidad,370,0,13,0,1,1,SPAM
+Agustín Parra,2024-07-26,Data pipeline optimizado,560,1,2,1,0,0,HAM
+Monserrat Ibarra,2024-07-27,¡URGENTE! $800000 disponibles,160,0,8,0,1,1,SPAM
+Esteban Córdoba,2024-07-28,Kubernetes cluster configurado,820,4,5,1,0,0,HAM
+Fernanda Guzmán,2024-07-29,Transferencia internacional pendiente,290,0,10,0,1,1,SPAM
+Cristóbal Carrasco,2024-07-30,Service discovery implementado,480,0,1,1,0,0,HAM
+Antonia Bravo,2024-07-31,¡Felicitaciones! Herencia de $2000000,340,0,11,0,1,1,SPAM
+Benjamín Castillo,2024-08-01,Secrets management configurado,420,2,3,1,0,0,HAM
+Victoria Santander,2024-08-02,Premio especial - Solo 8 horas,230,0,6,0,1,1,SPAM
+Gonzalo Miranda,2024-08-03,Incident response plan actualizado,730,1,2,1,0,0,HAM
+Isidora Valdés,2024-08-04,¡Ganaste $1500000! Confirma ahora,280,0,12,0,1,1,SPAM
+Salvador Fuentes,2024-08-05,Configuration management automatizado,650,3,4,1,0,0,HAM
+Magdalena Cáceres,2024-08-06,ACCIÓN REQUERIDA - Premio final,190,0,9,0,1,1,SPAM
+Facundo Álvarez,2024-08-07,Infrastructure as code implementado,570,2,1,1,0,0,HAM
+Florencia Barrios,2024-08-08,¡Increíble oferta! $750000 garantizados,360,0,14,0,1,1,SPAM
+Leandro Salinas,2024-08-09,Continuous deployment configurado,490,1,3,1,0,0,HAM
+Javiera Montoya,2024-08-10,Transferencia millonaria - URGENTE,250,0,7,0,1,1,SPAM
+Matías Henríquez,2024-08-11,Service mesh security habilitado,680,0,2,1,0,0,HAM
+Catalina Araya,2024-08-12,¡ÚLTIMO AVISO! $1800000 disponibles,320,0,11,0,1,1,SPAM
+Axel Maldonado,2024-08-13,GitOps workflow implementado,540,2,1,1,0,0,HAM
+Javiera Moreno,2024-08-14,Premio internacional confirmado,200,0,8,0,1,1,SPAM
+Claudio Sepúlveda,2024-08-15,Multi-cloud strategy definida,760,3,4,1,0,0,HAM
+Rocío Tapia,2024-08-16,¡Felicitaciones! Herencia lista,380,0,13,0,1,1,SPAM
+Bastián Carvajal,2024-08-17,Serverless functions implementadas,410,1,2,1,0,0,HAM
+Macarena Poblete,2024-08-18,URGENTE: Reclama $2500000,170,0,10,0,1,1,SPAM
+Arturo Muñoz,2024-08-19,Edge computing architecture diseñada,890,4,5,1,0,0,HAM
+Javiera Martínez,2024-08-20,¡Ganaste! Premio de $950000,290,0,6,0,1,1,SPAM
+Matías Urbina,2024-08-21,Retrospectiva sprint agosto,580,2,1,1,0,0,HAM
+Camila Vásquez,2024-08-22,¡FELICITACIONES! $3000000 en premios,270,0,15,0,1,1,SPAM
+Rafael Donoso,2024-08-23,Migración datos completada exitosamente,690,1,3,1,0,0,HAM
+Javiera Contreras,2024-08-24,URGENTE: Premio vence en 2 horas,180,0,9,0,1,1,SPAM
+Sebastián Cáceres,2024-08-25,Implementación nueva funcionalidad auth,450,0,2,1,0,0,HAM
+Antonia Miranda,2024-08-26,¡Increíble! Herencia de $4500000,320,0,12,0,1,1,SPAM
+Joaquín Salazar,2024-08-27,Code review - Mejoras identificadas,520,1,1,1,0,0,HAM
+Valentina Herrera,2024-08-28,Transferencia $1750000 - Confirma datos,240,0,8,0,1,1,SPAM
+Diego Mendoza,2024-08-29,Optimización queries base datos,760,3,4,1,0,0,HAM
+Francisca Moreno,2024-08-30,¡ÚLTIMO DÍA! Reclama $2200000,190,0,11,0,1,1,SPAM
+María García López,2024-01-15,Reunión de equipo semanal,245,1,2,1,0,0,HAM
+Carlos Rodríguez,2024-01-15,¡GANASTE $50000! Reclama ahora,892,0,5,0,1,1,SPAM
+Ana Martínez Ruiz,2024-01-16,Informe mensual adjunto,334,2,1,1,0,0,HAM
+Pedro Sánchez,2024-01-16,Oferta especial - 90% descuento,567,0,8,0,1,1,SPAM
+Laura Fernández,2024-01-17,Confirmación de cita médica,189,0,1,1,0,0,HAM
+Roberto Silva,2024-01-17,Urgent: Transfer money now!,1234,0,6,0,1,1,SPAM
+Isabel Torres,2024-01-18,Propuesta de proyecto Q1,456,3,2,1,0,0,HAM
+Miguel Ángel Ruiz,2024-01-18,Premio millonario te espera,723,1,4,0,1,1,SPAM
+Carmen Jiménez,2024-01-19,Actualización del sistema,298,1,3,1,0,0,HAM
+Francisco López,2024-01-19,$$$ Dinero fácil desde casa $$$,945,0,7,0,1,1,SPAM
+Elena González,2024-01-20,Factura de enero,156,1,0,1,0,0,HAM
+Andrés Moreno,2024-01-20,¡Actúa rápido! Oferta limitada,678,2,9,0,1,1,SPAM
+Lucía Herrera,2024-01-21,Planificación del trimestre,412,2,1,1,0,0,HAM
+Diego Castillo,2024-01-21,Inversión garantizada 100%,1089,0,5,0,1,1,SPAM
+Patricia Vega,2024-01-22,Recordatorio de evento corporativo,267,0,2,1,0,0,HAM
+Alejandro Ponce,2024-01-22,Click here to win big money,834,1,8,0,1,1,SPAM
+Raquel Domínguez,2024-01-23,Solicitud de vacaciones,198,1,0,1,0,0,HAM
+Sergio Guerrero,2024-01-23,Lotería internacional - GANADOR,1145,0,6,0,1,1,SPAM
+Mónica Delgado,2024-01-24,Revisión de presupuesto,389,2,1,1,0,0,HAM
+Javier Ramírez,2024-01-24,Oportunidad de oro limitada,756,1,7,0,1,1,SPAM
+Cristina Medina,2024-01-25,Actualización de políticas,334,1,2,1,0,0,HAM
+Fernando Aguilar,2024-01-25,Urgent payment required now,923,0,4,0,1,1,SPAM
+Pilar Castro,2024-01-26,Agenda de la próxima semana,212,0,1,1,0,0,HAM
+Ricardo Ortega,2024-01-26,Millones te esperan - actúa ya,1267,1,9,0,1,1,SPAM
+Beatriz Navarro,2024-01-27,Invitación a conferencia,445,1,3,1,0,0,HAM
+Ignacio Romero,2024-01-27,Easy money working from home,687,0,6,0,1,1,SPAM
+Teresa Gil,2024-01-28,Resumen de actividades,356,2,1,1,0,0,HAM
+Rubén Peña,2024-01-28,¡¡¡PREMIO URGENTE!!! Clic aquí,1034,2,8,0,1,1,SPAM
+Silvia Márquez,2024-01-29,Propuesta de colaboración,423,1,2,1,0,0,HAM
+Óscar Blanco,2024-01-29,Get rich quick scheme,798,0,5,0,1,1,SPAM
+Nuria Soto,2024-01-30,Confirmación de pedido,187,0,1,1,0,0,HAM
+Víctor Iglesias,2024-01-30,Nigerian prince needs help,1178,1,7,0,1,1,SPAM
+Gloria Rubio,2024-01-31,Reporte de ventas enero,312,3,0,1,0,0,HAM
+Manuel Campos,2024-01-31,Earn thousands daily guaranteed,923,0,6,0,1,1,SPAM
+Amparo León,2024-02-01,Solicitud de información,234,0,1,1,0,0,HAM
+Tomás Vázquez,2024-02-01,$$$ Tu fortuna te espera $$$,1089,1,9,0,1,1,SPAM
+Rosa Flores,2024-02-02,Recordatorio de pago,198,1,1,1,0,0,HAM
+Emilio Cano,2024-02-02,Click now for instant wealth,756,0,8,0,1,1,SPAM
+Dolores Prieto,2024-02-03,Invitación a almuerzo de trabajo,289,0,2,1,0,0,HAM
+Alberto Santana,2024-02-03,Limited time casino bonus,1234,2,5,0,1,1,SPAM
+Inmaculada Ramos,2024-02-04,Actualización de contacto,156,1,0,1,0,0,HAM
+Jesús Herrero,2024-02-04,Win lottery millions today,867,0,7,0,1,1,SPAM
+Encarnación Molina,2024-02-05,Agenda de reunión mensual,367,1,1,1,0,0,HAM
+Antonio Serrano,2024-02-05,FREE MONEY!!! Act fast now,1145,1,10,0,1,1,SPAM
+Remedios Pascual,2024-02-06,Solicitud de presupuesto,445,2,2,1,0,0,HAM
+Salvador Montero,2024-02-06,Investment opportunity urgent,923,0,6,0,1,1,SPAM
+Esperanza Lozano,2024-02-07,Confirmación de cita,189,0,1,1,0,0,HAM
+Gonzalo Garrido,2024-02-07,Get paid to click links,1067,1,8,0,1,1,SPAM
+Consuelo Gallego,2024-02-08,Informe de progreso,298,1,1,1,0,0,HAM
+Enrique Márquez,2024-02-08,Urgent! Claim your prize,789,0,5,0,1,1,SPAM
+Mercedes Carrasco,2024-02-09,Planificación de proyecto,423,2,2,1,0,0,HAM
+Rafael Herrera,2024-02-09,Make money online fast,1178,2,9,0,1,1,SPAM
+Milagros Fuentes,2024-02-10,Recordatorio de evento,234,0,1,1,0,0,HAM
+Joaquín Cabrera,2024-02-10,Cash prize waiting for you,834,0,7,0,1,1,SPAM
+Purificación Reyes,2024-02-11,Solicitud de reunión,267,1,1,1,0,0,HAM
+Clemente Sáez,2024-02-11,Win big at online casino,1089,1,6,0,1,1,SPAM
+Asunción Guerrero,2024-02-12,Actualización de sistema,312,1,2,1,0,0,HAM
+Eugenio Cortés,2024-02-12,Lottery winner selected - YOU,945,0,8,0,1,1,SPAM
+Rosario Mendoza,2024-02-13,Propuesta comercial,389,2,1,1,0,0,HAM
+Nicolás Morales,2024-02-13,Easy cash from home now,1267,1,9,0,1,1,SPAM
+Araceli Peña,2024-02-14,Invitación San Valentín corporativo,456,1,3,1,0,0,HAM
+Evaristo Jiménez,2024-02-14,Valentine's cash bonus,756,0,5,0,1,1,SPAM
+Virtudes Rubio,2024-02-15,Reporte financiero,334,2,0,1,0,0,HAM
+Fulgencio Santos,2024-02-15,Urgent money transfer needed,1034,1,7,0,1,1,SPAM
+Casimira Núñez,2024-02-16,Solicitud de información,198,0,1,1,0,0,HAM
+Saturnino Moya,2024-02-16,Get rich quick opportunity,867,0,6,0,1,1,SPAM
+Visitación Torres,2024-02-17,Agenda semanal,245,1,1,1,0,0,HAM
+Higinio Vega,2024-02-17,FREE MONEY!!! Limited time,1145,2,10,0,1,1,SPAM
+Adoración Silva,2024-02-18,Confirmación de pedido,189,1,1,1,0,0,HAM
+Bienvenido Ortiz,2024-02-18,Click for instant millions,923,0,8,0,1,1,SPAM
+Genoveva Moreno,2024-02-19,Propuesta de mejora,412,1,2,1,0,0,HAM
+Perfecto Iglesias,2024-02-19,Win lottery jackpot today,1178,1,9,0,1,1,SPAM
+Presentación López,2024-02-20,Recordatorio de pago,156,0,1,1,0,0,HAM
+Inocencio Blanco,2024-02-20,Money making opportunity,789,0,5,0,1,1,SPAM
+Primitiva Fernández,2024-02-21,Solicitud de vacaciones,267,1,0,1,0,0,HAM
+Abundio Sánchez,2024-02-21,Urgent financial assistance,1089,1,7,0,1,1,SPAM
+Filomena García,2024-02-22,Informe mensual,298,2,1,1,0,0,HAM
+Cesáreo Martín,2024-02-22,Cash rewards waiting,834,0,6,0,1,1,SPAM
+Ascensión Díaz,2024-02-23,Planificación trimestral,445,1,2,1,0,0,HAM
+Delfín Rodríguez,2024-02-23,Make thousands working home,1267,2,8,0,1,1,SPAM
+Nicomedes Pérez,2024-02-24,Actualización de políticas,356,1,1,1,0,0,HAM
+Florencio González,2024-02-24,Win big money online,945,0,9,0,1,1,SPAM
+Crescencia Sánchez,2024-02-25,Invitación a evento,234,0,2,1,0,0,HAM
+Hermenegildo López,2024-02-25,Lottery millions await you,1034,1,5,0,1,1,SPAM
+Epifanía Martínez,2024-02-26,Confirmación de cita,189,1,1,1,0,0,HAM
+Telesforo Fernández,2024-02-26,Get paid to surf web,756,0,7,0,1,1,SPAM
+Candelaria Moreno,2024-02-27,Solicitud de presupuesto,423,2,1,1,0,0,HAM
+Anacleto García,2024-02-27,Urgent prize claim needed,1145,1,8,0,1,1,SPAM
+Sinforosa Jiménez,2024-02-28,Reporte de actividades,312,1,0,1,0,0,HAM
+Policarpo Ruiz,2024-02-28,Easy money guaranteed,867,0,6,0,1,1,SPAM
+Escolástica Hernández,2024-03-01,Agenda de marzo,289,0,1,1,0,0,HAM
+Pancracio Muñoz,2024-03-01,Click for instant cash,1178,2,10,0,1,1,SPAM
+Librada Álvarez,2024-03-02,Propuesta de colaboración,398,1,2,1,0,0,HAM
+Hermógenes Romero,2024-03-02,Win lottery prize now,923,0,7,0,1,1,SPAM
+Basilisa Navarro,2024-03-03,Recordatorio de reunión,198,0,1,1,0,0,HAM
+Jenaro Torres,2024-03-03,Make money from clicks,1089,1,9,0,1,1,SPAM
+Leocadia Domínguez,2024-03-04,Actualización de contacto,156,1,0,1,0,0,HAM
+Crisanto Vázquez,2024-03-04,FREE CASH!!! Act now,789,0,8,0,1,1,SPAM
+Aurea Ramos,2024-03-05,Solicitud de información,267,0,1,1,0,0,HAM
+Macedonio Gil,2024-03-05,Get rich online today,1267,1,5,0,1,1,SPAM
+Feliciana Serrano,2024-03-06,Confirmación de pedido,234,1,1,1,0,0,HAM
+Longinos Guerrero,2024-03-06,Urgent money opportunity,834,0,6,0,1,1,SPAM
+Perpetua Castro,2024-03-07,Informe semanal,345,2,1,1,0,0,HAM
+Eustaquio Ortega,2024-03-07,Win millions in lottery,1034,2,9,0,1,1,SPAM
+Natividad Delgado,2024-03-08,Día de la Mujer - evento corporativo,412,1,3,1,0,0,HAM
+Facundo Herrera,2024-03-08,Women's Day cash bonus,945,0,7,0,1,1,SPAM
+Consolación Medina,2024-03-09,Propuesta de proyecto,356,1,2,1,0,0,HAM
+Remigio Aguilar,2024-03-09,Easy money working home,1145,1,8,0,1,1,SPAM
+Salustiana Castillo,2024-03-10,Agenda de la semana,289,0,1,1,0,0,HAM
+Melquiades Ponce,2024-03-10,Claim your cash prize,756,0,5,0,1,1,SPAM
+Estefanía Vega,2024-03-11,Solicitud de reunión,198,1,1,1,0,0,HAM
+Fructuoso Ramírez,2024-03-11,Get paid for surveys,1178,2,10,0,1,1,SPAM
+Victoriana Silva,2024-03-12,Recordatorio de pago,189,0,1,1,0,0,HAM
+Celedonio Morales,2024-03-12,Lottery winner notification,867,0,6,0,1,1,SPAM
+Digna López,2024-03-13,Actualización de sistema,312,1,2,1,0,0,HAM
+Plácido Jiménez,2024-03-13,Make thousands daily,1089,1,9,0,1,1,SPAM
+Serafina García,2024-03-14,Planificación mensual,423,2,1,1,0,0,HAM
+Anselmo Martín,2024-03-14,Urgent financial help,923,0,7,0,1,1,SPAM
+Benita Fernández,2024-03-15,Invitación a almuerzo,267,0,2,1,0,0,HAM
+Eusebio Sánchez,2024-03-15,Click for free money,1267,1,8,0,1,1,SPAM
+Máxima Rodríguez,2024-03-16,Solicitud de presupuesto,445,2,1,1,0,0,HAM
+Valerio González,2024-03-16,Win big at casino,789,0,5,0,1,1,SPAM
+Felisa Pérez,2024-03-17,Confirmación de cita,234,1,1,1,0,0,HAM
+Cayetano Martínez,2024-03-17,Easy cash opportunity,1034,2,9,0,1,1,SPAM
+Bernardina Díaz,2024-03-18,Reporte trimestral,378,1,0,1,0,0,HAM
+Hipólito Ruiz,2024-03-18,Get rich quick scheme,945,0,6,0,1,1,SPAM
+Florencia Hernández,2024-03-19,Propuesta comercial,356,2,2,1,0,0,HAM
+Marcelino Muñoz,2024-03-19,Urgent prize notification,1145,1,10,0,1,1,SPAM
+Nemesia Álvarez,2024-03-20,Recordatorio de evento,198,0,1,1,0,0,HAM
+Cándido Romero,2024-03-20,Make money online fast,756,0,7,0,1,1,SPAM
+Práxedes Navarro,2024-03-21,Solicitud de vacaciones,289,1,0,1,0,0,HAM
+Saturnino Torres,2024-03-21,FREE MONEY!!! Click now,1178,2,8,0,1,1,SPAM
+Obdulia Domínguez,2024-03-22,Actualización de políticas,412,1,1,1,0,0,HAM
+Prudencio Vázquez,2024-03-22,Win lottery jackpot,867,0,5,0,1,1,SPAM
+Matilde Ramos,2024-03-23,Informe de progreso,334,2,1,1,0,0,HAM
+Agapito Gil,2024-03-23,Get paid to click,1089,1,9,0,1,1,SPAM
+Basilisa Serrano,2024-03-24,Agenda semanal,245,0,1,1,0,0,HAM
+Tiburcio Guerrero,2024-03-24,Cash rewards available,923,0,6,0,1,1,SPAM
+Celestina Castro,2024-03-25,Propuesta de mejora,467,1,2,1,0,0,HAM
+Modesto Ortega,2024-03-25,Urgent money transfer,1267,1,8,0,1,1,SPAM
+Gumersinda Delgado,2024-03-26,Solicitud de información,198,0,1,1,0,0,HAM
+Pantaleón Herrera,2024-03-26,Win millions today,789,0,7,0,1,1,SPAM
+Ubaldina Medina,2024-03-27,Confirmación de pedido,189,1,1,1,0,0,HAM
+Teófilo Aguilar,2024-03-27,Easy money guaranteed,1034,2,10,0,1,1,SPAM
+Rosenda Castillo,2024-03-28,Recordatorio de pago,267,0,1,1,0,0,HAM
+Aquilino Ponce,2024-03-28,Get rich working home,945,0,5,0,1,1,SPAM
+Gertrudis Vega,2024-03-29,Planificación de abril,356,1,1,1,0,0,HAM
+Bautista Ramírez,2024-03-29,Lottery prize waiting,1145,1,9,0,1,1,SPAM
+Dionisia Silva,2024-03-30,Solicitud de reunión,298,1,2,1,0,0,HAM
+Constantino Morales,2024-03-30,Make thousands daily,756,0,8,0,1,1,SPAM
+Eusebia López,2024-03-31,Resumen de marzo,423,2,0,1,0,0,HAM
+Nemesio Jiménez,2024-03-31,Click for instant wealth,1178,2,6,0,1,1,SPAM
+Jacinta García,2024-04-01,Inocentadas corporativas,312,0,3,1,0,0,HAM
+Apolinar Martín,2024-04-01,April Fools cash prize,867,0,7,0,1,1,SPAM
+Escolástica Fernández,2024-04-02,Actualización de sistema,234,1,1,1,0,0,HAM
+Baldomero Sánchez,2024-04-02,Urgent financial assistance,1089,1,9,0,1,1,SPAM
+Remedios Rodríguez,2024-04-03,Propuesta de colaboración,445,2,2,1,0,0,HAM
+Doroteo González,2024-04-03,Get paid for nothing,923,0,5,0,1,1,SPAM
+Crescencia Pérez,2024-04-04,Confirmación de cita,189,0,1,1,0,0,HAM
+Isidoro Martínez,2024-04-04,Win big money now,1267,1,10,0,1,1,SPAM
+Felicitas Díaz,2024-04-05,Invitación a evento,356,1,2,1,0,0,HAM
+Evaristo Ruiz,2024-04-05,FREE CASH!!! Act fast,789,0,8,0,1,1,SPAM
+Primitiva Hernández,2024-04-06,Reporte semanal,289,1,1,1,0,0,HAM
+Servando Muñoz,2024-04-06,Easy money opportunity,1034,2,6,0,1,1,SPAM
+Virtudes Álvarez,2024-04-07,Solicitud de presupuesto,412,2,1,1,0,0,HAM
+Honorato Romero,2024-04-07,Lottery millions await,945,0,9,0,1,1,SPAM
+Casimira Navarro,2024-04-08,Recordatorio de reunión,198,0,1,1,0,0,HAM
+Fulgencio Torres,2024-04-08,Get rich quick today,1145,1,7,0,1,1,SPAM
+Visitación Domínguez,2024-04-09,Actualización de contacto,267,1,0,1,0,0,HAM
+Higinio Vázquez,2024-04-09,Make money from home,756,0,5,0,1,1,SPAM
+Adoración Ramos,2024-04-10,Planificación mensual,378,1,2,1,0,0,HAM
+Bienvenido Gil,2024-04-10,Urgent prize claim,1178,2,10,0,1,1,SPAM
+Genoveva Serrano,2024-04-11,Solicitud de información,234,0,1,1,0,0,HAM
+Perfecto Guerrero,2024-04-11,Click for free money,867,0,8,0,1,1,SPAM
+Presentación Castro,2024-04-12,Confirmación de pedido,189,1,1,1,0,0,HAM
+Inocencio Ortega,2024-04-12,Win lottery jackpot,1089,1,6,0,1,1,SPAM
+Primitiva Delgado,2024-04-13,Agenda semanal,298,0,1,1,0,0,HAM
+Abundio Herrera,2024-04-13,Cash rewards waiting,923,0,9,0,1,1,SPAM
+Filomena Medina,2024-04-14,Propuesta comercial,445,2,2,1,0,0,HAM
+Cesáreo Aguilar,2024-04-14,Get paid to surf,1267,1,7,0,1,1,SPAM
+Ascensión Castillo,2024-04-15,Recordatorio de pago,156,0,1,1,0,0,HAM
+Delfín Ponce,2024-04-15,FREE MONEY!!! Limited,789,0,5,0,1,1,SPAM
+Nicomedes Vega,2024-04-16,Actualización de políticas,356,1,1,1,0,0,HAM
+Florencio Ramírez,2024-04-16,Easy cash opportunity,1034,2,8,0,1,1,SPAM
+Crescencia Silva,2024-04-17,Solicitud de reunión,267,1,1,1,0,0,HAM
+Hermenegildo Morales,2024-04-17,Make thousands online,945,0,10,0,1,1,SPAM
+Epifanía López,2024-04-18,Informe de progreso,412,2,0,1,0,0,HAM
+Telesforo Jiménez,2024-04-18,Win big at casino,1145,1,6,0,1,1,SPAM
+Candelaria García,2024-04-19,Invitación a almuerzo,289,0,2,1,0,0,HAM
+Anacleto Martín,2024-04-19,Urgent financial help,756,0,9,0,1,1,SPAM
+Sinforosa Fernández,2024-04-20,Planificación semanal,334,1,1,1,0,0,HAM
+Policarpo Sánchez,2024-04-20,Get rich working home,1178,2,7,0,1,1,SPAM
+Escolástica Rodríguez,2024-04-21,Confirmación de cita,198,1,1,1,0,0,HAM
+Pancracio González,2024-04-21,Click for instant cash,867,0,5,0,1,1,SPAM
+Librada Pérez,2024-04-22,Solicitud de vacaciones,245,0,0,1,0,0,HAM
+Hermógenes Martínez,2024-04-22,Lottery prize notification,1089,1,8,0,1,1,SPAM
+Basilisa Díaz,2024-04-23,Reporte mensual,423,2,1,1,0,0,HAM
+Jenaro Ruiz,2024-04-23,Make money clicking,923,0,10,0,1,1,SPAM
+Leocadia Hernández,2024-04-24,Actualización de sistema,312,1,2,1,0,0,HAM
+Crisanto Muñoz,2024-04-24,FREE CASH!!! Act now,1267,1,6,0,1,1,SPAM
+Aurea Álvarez,2024-04-25,Propuesta de mejora,378,1,1,1,0,0,HAM
+Macedonio Romero,2024-04-25,Get paid for surveys,789,0,9,0,1,1,SPAM
+Feliciana Navarro,2024-04-26,Recordatorio de evento,189,0,1,1,0,0,HAM
+Longinos Torres,2024-04-26,Win millions today,1034,2,7,0,1,1,SPAM
+Perpetua Domínguez,2024-04-27,Solicitud de información,267,1,0,1,0,0,HAM
+Eustaquio Vázquez,2024-04-27,Easy money guaranteed,945,0,5,0,1,1,SPAM
+Natividad Ramos,2024-04-28,Confirmación de pedido,234,1,1,1,0,0,HAM
+Facundo Gil,2024-04-28,Urgent money transfer,1145,1,8,0,1,1,SPAM
+Consolación Serrano,2024-04-29,Agenda de mayo,356,0,2,1,0,0,HAM
+Remigio Guerrero,2024-04-29,Get rich quick today,756,0,10,0,1,1,SPAM
+Salustiana Castro,2024-04-30,Resumen de abril,445,2,0,1,0,0,HAM
+Melquiades Ortega,2024-04-30,Click for free money,1178,2,6,0,1,1,SPAM
+Estefanía Delgado,2024-05-01,Día del Trabajador - mensaje corporativo,298,1,3,1,0,0,HAM
+Fructuoso Herrera,2024-05-01,Labor Day cash bonus,867,0,9,0,1,1,SPAM
+Victoriana Medina,2024-05-02,Propuesta de colaboración,423,2,1,1,0,0,HAM
+Celedonio Aguilar,2024-05-02,Make thousands daily,1089,1,7,0,1,1,SPAM
+Digna Castillo,2024-05-03,Solicitud de reunión,198,0,1,1,0,0,HAM
+Plácido Ponce,2024-05-03,Win lottery prize,923,0,5,0,1,1,SPAM
+Serafina Vega,2024-05-04,Actualización de contacto,189,1,0,1,0,0,HAM
+Anselmo Ramírez,2024-05-04,FREE MONEY!!! Click,1267,1,8,0,1,1,SPAM
+Alejandra Morales,2024-05-05,Planificación de marketing Q2,412,2,1,1,0,0,HAM
+Cristóbal Núñez,2024-05-05,Get paid watching videos,1034,0,7,0,1,1,SPAM
+Soledad Moya,2024-05-06,Confirmación de asistencia,245,0,1,1,0,0,HAM
+Baudilio Torres,2024-05-06,Earn cash playing games,789,1,9,0,1,1,SPAM
+Esperanza Vega,2024-05-07,Informe de calidad,356,1,0,1,0,0,HAM
+Ceferino Silva,2024-05-07,Urgent lottery winner,1145,0,6,0,1,1,SPAM
+Milagros Ortiz,2024-05-08,Recordatorio de capacitación,198,1,2,1,0,0,HAM
+Silvestre Blanco,2024-05-08,Make money typing,923,2,8,0,1,1,SPAM
+Remedios Iglesias,2024-05-09,Solicitud de autorización,267,0,0,1,0,0,HAM
+Pantaleón Soto,2024-05-09,Click for instant riches,1178,0,5,0,1,1,SPAM
+Purificación Rubio,2024-05-10,Agenda del equipo,289,1,1,1,0,0,HAM
+Clemente Campos,2024-05-10,FREE CASH!!! No work,756,1,10,0,1,1,SPAM
+Asunción León,2024-05-11,Propuesta de presupuesto,445,2,2,1,0,0,HAM
+Eugenio Vázquez,2024-05-11,Win big money online,1089,0,7,0,1,1,SPAM
+Rosario Flores,2024-05-12,Madre trabajadora - evento,334,0,3,1,0,0,HAM
+Nicolás Cano,2024-05-12,Mother's Day cash prize,867,1,9,0,1,1,SPAM
+Araceli Prieto,2024-05-13,Actualización de protocolo,312,1,1,1,0,0,HAM
+Evaristo Santana,2024-05-13,Easy money working home,1267,0,6,0,1,1,SPAM
+Virtudes Ramos,2024-05-14,Solicitud de recursos,378,2,0,1,0,0,HAM
+Fulgencio Herrero,2024-05-14,Get rich quick scheme,945,1,8,0,1,1,SPAM
+Casimira Molina,2024-05-15,Confirmación de entrega,189,1,1,1,0,0,HAM
+Saturnino Serrano,2024-05-15,Urgent financial help,1034,2,5,0,1,1,SPAM
+Visitación Pascual,2024-05-16,Planificación de evento,423,1,2,1,0,0,HAM
+Higinio Montero,2024-05-16,Make thousands clicking,789,0,10,0,1,1,SPAM
+Adoración Lozano,2024-05-17,Reporte de inventario,298,2,1,1,0,0,HAM
+Bienvenido Garrido,2024-05-17,Click for free money,1145,0,7,0,1,1,SPAM
+Genoveva Gallego,2024-05-18,Solicitud de mantenimiento,234,0,0,1,0,0,HAM
+Perfecto Márquez,2024-05-18,Win lottery millions,923,1,9,0,1,1,SPAM
+Presentación Carrasco,2024-05-19,Recordatorio de junta,267,1,1,1,0,0,HAM
+Inocencio Herrera,2024-05-19,Get paid to read emails,1178,0,6,0,1,1,SPAM
+Primitiva Fuentes,2024-05-20,Actualización de base datos,356,1,2,1,0,0,HAM
+Abundio Cabrera,2024-05-20,FREE MONEY!!! Act fast,756,2,8,0,1,1,SPAM
+Filomena Reyes,2024-05-21,Propuesta de capacitación,445,2,1,1,0,0,HAM
+Cesáreo Sáez,2024-05-21,Easy cash opportunity,1089,0,5,0,1,1,SPAM
+Ascensión Guerrero,2024-05-22,Confirmación de cita médica,198,0,1,1,0,0,HAM
+Delfín Cortés,2024-05-22,Urgent prize notification,867,1,10,0,1,1,SPAM
+Nicomedes Mendoza,2024-05-23,Informe de seguridad,312,1,0,1,0,0,HAM
+Florencio Morales,2024-05-23,Make money from phone,1267,0,7,0,1,1,SPAM
+Crescencia Peña,2024-05-24,Agenda de reuniones,289,0,2,1,0,0,HAM
+Hermenegildo Jiménez,2024-05-24,Get rich working online,945,1,9,0,1,1,SPAM
+Epifanía Rubio,2024-05-25,Solicitud de vacaciones,245,1,0,1,0,0,HAM
+Telesforo Santos,2024-05-25,Click for instant wealth,1034,0,6,0,1,1,SPAM
+Candelaria Núñez,2024-05-26,Recordatorio de evento familiar,356,0,1,1,0,0,HAM
+Anacleto Moya,2024-05-26,Win big at online casino,789,2,8,0,1,1,SPAM
+Sinforosa Torres,2024-05-27,Planificación de junio,412,1,1,1,0,0,HAM
+Policarpo Vega,2024-05-27,FREE CASH!!! No strings,1145,0,5,0,1,1,SPAM
+Escolástica Silva,2024-05-28,Propuesta de mejora continua,423,2,2,1,0,0,HAM
+Pancracio Ortiz,2024-05-28,Easy money guaranteed,923,1,10,0,1,1,SPAM
+Librada Moreno,2024-05-29,Confirmación de pedido especial,189,1,1,1,0,0,HAM
+Hermógenes Iglesias,2024-05-29,Make thousands daily,1178,0,7,0,1,1,SPAM
+Basilisa Blanco,2024-05-30,Actualización de sistema CRM,334,1,2,1,0,0,HAM
+Jenaro Soto,2024-05-30,Get paid for opinions,756,2,9,0,1,1,SPAM
+Leocadia Rubio,2024-05-31,Resumen mensual de mayo,378,2,0,1,0,0,HAM
+Crisanto Campos,2024-05-31,Urgent money opportunity,1089,0,6,0,1,1,SPAM
+Aurea León,2024-06-01,Mensaje del Día del Niño,267,0,3,1,0,0,HAM
+Macedonio Vázquez,2024-06-01,Children's Day cash bonus,867,1,8,0,1,1,SPAM
+Feliciana Flores,2024-06-02,Solicitud de información técnica,445,1,1,1,0,0,HAM
+Longinos Cano,2024-06-02,Click for free riches,1267,0,5,0,1,1,SPAM
+Perpetua Prieto,2024-06-03,Recordatorio de capacitación obligatoria,298,1,2,1,0,0,HAM
+Eustaquio Santana,2024-06-03,Win lottery jackpot today,945,2,10,0,1,1,SPAM
+Natividad Ramos,2024-06-04,Confirmación de asistencia evento,234,0,1,1,0,0,HAM
+Facundo Herrero,2024-06-04,Make money while sleeping,1034,0,7,0,1,1,SPAM
+Consolación Molina,2024-06-05,Propuesta de alianza estratégica,456,2,2,1,0,0,HAM
+Remigio Serrano,2024-06-05,FREE MONEY!!! Limited time,789,1,9,0,1,1,SPAM
+Salustiana Pascual,2024-06-06,Agenda semanal de proyectos,312,1,1,1,0,0,HAM
+Melquiades Montero,2024-06-06,Get rich quick online,1145,0,6,0,1,1,SPAM
+Estefanía Lozano,2024-06-07,Solicitud de autorización compras,389,1,0,1,0,0,HAM
+Fructuoso Garrido,2024-06-07,Easy cash from surveys,923,2,8,0,1,1,SPAM
+Victoriana Gallego,2024-06-08,Recordatorio de junta directiva,198,0,1,1,0,0,HAM
+Celedonio Márquez,2024-06-08,Click for instant money,1178,0,5,0,1,1,SPAM
+Digna Carrasco,2024-06-09,Actualización de políticas HR,367,1,2,1,0,0,HAM
+Plácido Herrera,2024-06-09,Win millions in lottery,756,1,10,0,1,1,SPAM
+Serafina Fuentes,2024-06-10,Planificación de campaña publicitaria,445,2,1,1,0,0,HAM
+Anselmo Cabrera,2024-06-10,Make thousands working home,1089,0,7,0,1,1,SPAM
+Benita Reyes,2024-06-11,Confirmación de reunión cliente,267,1,1,1,0,0,HAM
+Eusebio Sáez,2024-06-11,FREE CASH!!! No experience,867,2,9,0,1,1,SPAM
+Máxima Guerrero,2024-06-12,Solicitud de presupuesto anual,423,2,0,1,0,0,HAM
+Valerio Cortés,2024-06-12,Get paid to click ads,1267,0,6,0,1,1,SPAM
+Felisa Mendoza,2024-06-13,Informe de productividad,334,1,1,1,0,0,HAM
+Cayetano Morales,2024-06-13,Urgent prize claim needed,945,1,8,0,1,1,SPAM
+Bernardina Peña,2024-06-14,Recordatorio evento corporativo,289,0,2,1,0,0,HAM
+Hipólito Jiménez,2024-06-14,Easy money opportunity,1034,0,5,0,1,1,SPAM
+Florencia Rubio,2024-06-15,Propuesta de innovación tecnológica,478,2,2,1,0,0,HAM
+Marcelino Santos,2024-06-15,Click for free wealth,789,2,10,0,1,1,SPAM
+Nemesia Núñez,2024-06-16,Confirmación de entrega materiales,198,1,1,1,0,0,HAM
+Cándido Moya,2024-06-16,Win big money today,1145,0,7,0,1,1,SPAM
+Práxedes Torres,2024-06-17,Actualización de procedimientos,356,1,0,1,0,0,HAM
+Saturnino Vega,2024-06-17,Make money from home,923,1,9,0,1,1,SPAM
+Obdulia Silva,2024-06-18,Solicitud de recursos adicionales,412,2,1,1,0,0,HAM
+Prudencio Ortiz,2024-06-18,FREE MONEY!!! Act now,1178,0,6,0,1,1,SPAM
+Matilde Moreno,2024-06-19,Planificación estratégica Q3,445,1,2,1,0,0,HAM
+Agapito Iglesias,2024-06-19,Get rich clicking links,756,2,8,0,1,1,SPAM
+Basilisa Blanco,2024-06-20,Recordatorio de evaluación,234,0,1,1,0,0,HAM
+Tiburcio Soto,2024-06-20,Easy cash guaranteed,1089,0,5,0,1,1,SPAM
+Celestina Rubio,2024-06-21,Propuesta de capacitación internacional,467,2,1,1,0,0,HAM
+Modesto Campos,2024-06-21,Urgent financial assistance,867,1,10,0,1,1,SPAM
+Gumersinda León,2024-06-22,Confirmación de cita importante,189,1,1,1,0,0,HAM
+Pantaleón Vázquez,2024-06-22,Win lottery prize now,1267,0,7,0,1,1,SPAM
+Ubaldina Flores,2024-06-23,Agenda de la próxima semana,298,0,2,1,0,0,HAM
+Teófilo Cano,2024-06-23,Make thousands online,945,2,9,0,1,1,SPAM
+Rosenda Prieto,2024-06-24,Solicitud de mantenimiento equipos,356,1,0,1,0,0,HAM
+Aquilino Santana,2024-06-24,FREE CASH!!! Limited offer,1034,0,6,0,1,1,SPAM
+Gertrudis Ramos,2024-06-25,Actualización de contactos comerciales,312,1,1,1,0,0,HAM
+Bautista Herrero,2024-06-25,Click for instant riches,789,1,8,0,1,1,SPAM
+Dionisia Molina,2024-06-26,Recordatorio de evento de verano,267,0,3,1,0,0,HAM
+Constantino Serrano,2024-06-26,Get paid for nothing,1145,0,5,0,1,1,SPAM
+Eusebia Pascual,2024-06-27,Propuesta de mejora procesos,423,2,2,1,0,0,HAM
+Nemesio Montero,2024-06-27,Easy money working online,923,2,10,0,1,1,SPAM
+Jacinta Lozano,2024-06-28,Informe de cierre semestre,378,1,0,1,0,0,HAM
+Apolinar Garrido,2024-06-28,Win millions clicking,1178,0,7,0,1,1,SPAM
+Escolástica Gallego,2024-06-29,Planificación de vacaciones equipo,334,0,1,1,0,0,HAM
+Baldomero Márquez,2024-06-29,Urgent money opportunity,756,1,9,0,1,1,SPAM
+Remedios Carrasco,2024-06-30,Resumen del primer semestre,445,2,1,1,0,0,HAM
+Doroteo Herrera,2024-06-30,FREE MONEY!!! Last chance,1089,0,6,0,1,1,SPAM
+Trinidad Velasco,2024-07-01,Inicio de segundo semestre,298,1,2,1,0,0,HAM
+Zoilo Mendez,2024-07-01,July cash bonanza starts,1156,0,8,0,1,1,SPAM
+Esperanza Rivera,2024-07-02,Confirmación de contrato nuevo,412,2,1,1,0,0,HAM
+Benigno Vargas,2024-07-02,Get rich summer scheme,867,1,9,0,1,1,SPAM
+Remedios Peña,2024-07-03,Solicitud de equipos oficina,234,0,0,1,0,0,HAM
+Laureano Castro,2024-07-03,Make money on vacation,1234,0,6,0,1,1,SPAM
+Consolación Morales,2024-07-04,Celebración Día Independencia USA,356,1,3,1,0,0,HAM
+Primitivo Delgado,2024-07-04,Independence Day prize,945,2,7,0,1,1,SPAM
+Visitación Herrera,2024-07-05,Actualización de inventario,189,1,1,1,0,0,HAM
+Saturnino Medina,2024-07-05,FREE CASH!!! Summer special,1089,0,5,0,1,1,SPAM
+Genoveva Aguilar,2024-07-06,Propuesta de colaboración técnica,445,2,2,1,0,0,HAM
+Herminio Castillo,2024-07-06,Easy money working beach,789,1,10,0,1,1,SPAM
+Presentación Ponce,2024-07-07,Recordatorio de junta mensual,267,0,1,1,0,0,HAM
+Inocencio Vega,2024-07-07,Click for vacation money,1267,0,8,0,1,1,SPAM
+Primitiva Ramírez,2024-07-08,Informe de ventas Q2,378,2,0,1,0,0,HAM
+Abundio Silva,2024-07-08,Win tropical vacation cash,923,1,9,0,1,1,SPAM
+Filomena Morales,2024-07-09,Confirmación de capacitación,198,1,1,1,0,0,HAM
+Cesáreo López,2024-07-09,Get paid to travel,1145,0,6,0,1,1,SPAM
+Ascensión Jiménez,2024-07-10,Solicitud de autorización viajes,423,1,2,1,0,0,HAM
+Delfín García,2024-07-10,Summer lottery millions,756,2,7,0,1,1,SPAM
+Nicomedes Martín,2024-07-11,Planificación evento anual,334,1,1,1,0,0,HAM
+Florencio Fernández,2024-07-11,FREE MONEY!!! Beach bonus,1034,0,5,0,1,1,SPAM
+Crescencia Sánchez,2024-07-12,Recordatorio de evaluaciones,289,0,0,1,0,0,HAM
+Hermenegildo Rodríguez,2024-07-12,Make thousands poolside,867,1,8,0,1,1,SPAM
+Epifanía González,2024-07-13,Actualización de procedimientos,312,1,2,1,0,0,HAM
+Telesforo Pérez,2024-07-13,Easy cash summer job,1178,0,10,0,1,1,SPAM
+Candelaria Martínez,2024-07-14,Propuesta de presupuesto nuevo,456,2,1,1,0,0,HAM
+Anacleto Díaz,2024-07-14,Win big vacation prize,945,2,9,0,1,1,SPAM
+Sinforosa Ruiz,2024-07-15,Confirmación de pedido urgente,234,1,1,1,0,0,HAM
+Policarpo Hernández,2024-07-15,Click for summer riches,789,0,6,0,1,1,SPAM
+Escolástica Muñoz,2024-07-16,Solicitud de mantenimiento AC,189,0,0,1,0,0,HAM
+Pancracio Álvarez,2024-07-16,Hot summer cash deals,1089,1,7,0,1,1,SPAM
+Librada Romero,2024-07-17,Informe de recursos humanos,367,2,1,1,0,0,HAM
+Hermógenes Navarro,2024-07-17,FREE MONEY!!! Cool cash,1267,0,8,0,1,1,SPAM
+Basilisa Torres,2024-07-18,Recordatorio de evento corporativo,298,0,2,1,0,0,HAM
+Jenaro Domínguez,2024-07-18,Get rich in the heat,923,1,5,0,1,1,SPAM
+Leocadia Vázquez,2024-07-19,Planificación de vacaciones,245,1,1,1,0,0,HAM
+Crisanto Ramos,2024-07-19,Make money under sun,1145,0,9,0,1,1,SPAM
+Aurea Gil,2024-07-20,Propuesta de mejora continua,423,2,2,1,0,0,HAM
+Macedonio Serrano,2024-07-20,Summer lottery winner,756,2,10,0,1,1,SPAM
+Feliciana Guerrero,2024-07-21,Confirmación de asistencia,198,1,1,1,0,0,HAM
+Longinos Castro,2024-07-21,Easy vacation money,1034,0,6,0,1,1,SPAM
+Perpetua Ortega,2024-07-22,Actualización de base de datos,334,1,0,1,0,0,HAM
+Eustaquio Delgado,2024-07-22,Click for beach cash,867,1,7,0,1,1,SPAM
+Natividad Herrera,2024-07-23,Solicitud de recursos técnicos,445,2,1,1,0,0,HAM
+Facundo Medina,2024-07-23,FREE CASH!!! Summer end,1178,0,8,0,1,1,SPAM
+Consolación Aguilar,2024-07-24,Recordatorio de junta directiva,267,0,1,1,0,0,HAM
+Remigio Castillo,2024-07-24,Win millions before autumn,945,2,9,0,1,1,SPAM
+Salustiana Ponce,2024-07-25,Informe de productividad julio,356,1,2,1,0,0,HAM
+Melquiades Vega,2024-07-25,Make money AC shopping,789,0,5,0,1,1,SPAM
+Estefanía Ramírez,2024-07-26,Propuesta de alianza comercial,478,2,1,1,0,0,HAM
+Fructuoso Silva,2024-07-26,Get paid for cooling,1089,1,10,0,1,1,SPAM
+Victoriana Morales,2024-07-27,Confirmación de evento familiar,189,0,3,1,0,0,HAM
+Celedonio López,2024-07-27,Summer cash emergency,1267,0,6,0,1,1,SPAM
+Digna Jiménez,2024-07-28,Solicitud de vacaciones equipo,298,1,0,1,0,0,HAM
+Plácido García,2024-07-28,Easy money staying cool,923,1,7,0,1,1,SPAM
+Serafina Martín,2024-07-29,Planificación de agosto,312,0,2,1,0,0,HAM
+Anselmo Fernández,2024-07-29,FREE MONEY!!! Hot deals,1145,0,8,0,1,1,SPAM
+Benita Sánchez,2024-07-30,Actualización de políticas,423,1,1,1,0,0,HAM
+Eusebio Rodríguez,2024-07-30,Click for cooling cash,756,2,9,0,1,1,SPAM
+Máxima González,2024-07-31,Resumen mensual de julio,378,2,0,1,0,0,HAM
+Valerio Pérez,2024-07-31,July fortune finale,1034,0,5,0,1,1,SPAM
+Felisa Martínez,2024-08-01,Inicio de agosto - planificación,334,1,2,1,0,0,HAM
+Cayetano Díaz,2024-08-01,August cash avalanche,867,1,10,0,1,1,SPAM
+Bernardina Ruiz,2024-08-02,Confirmación de materiales,234,1,1,1,0,0,HAM
+Hipólito Hernández,2024-08-02,Make money August heat,1178,0,6,0,1,1,SPAM
+Florencia Muñoz,2024-08-03,Propuesta de innovación,456,2,1,1,0,0,HAM
+Marcelino Álvarez,2024-08-03,Get rich dog days,945,1,7,0,1,1,SPAM
+Nemesia Romero,2024-08-04,Recordatorio de capacitación,198,0,1,1,0,0,HAM
+Cándido Navarro,2024-08-04,FREE CASH!!! August special,1089,0,8,0,1,1,SPAM
+Práxedes Torres,2024-08-05,Solicitud de equipos nuevos,412,2,0,1,0,0,HAM
+Saturnino Domínguez,2024-08-05,Easy money hot weather,789,2,9,0,1,1,SPAM
+Obdulia Vázquez,2024-08-06,Actualización sistema contable,298,1,2,1,0,0,HAM
+Prudencio Ramos,2024-08-06,Win big summer ending,1267,0,5,0,1,1,SPAM
+Matilde Gil,2024-08-07,Informe de calidad mensual,367,1,1,1,0,0,HAM
+Agapito Serrano,2024-08-07,Click for heat relief cash,923,1,10,0,1,1,SPAM
+Basilisa Guerrero,2024-08-08,Propuesta de mejora procesos,445,2,1,1,0,0,HAM
+Tiburcio Castro,2024-08-08,Make thousands staying cool,1145,0,6,0,1,1,SPAM
+Celestina Ortega,2024-08-09,Confirmación de reunión cliente,189,1,1,1,0,0,HAM
+Modesto Delgado,2024-08-09,FREE MONEY!!! Cool down,756,1,7,0,1,1,SPAM
+Gumersinda Herrera,2024-08-10,Recordatorio de evento,267,0,2,1,0,0,HAM
+Pantaleón Medina,2024-08-10,Get paid beating heat,1034,0,8,0,1,1,SPAM
+Ubaldina Aguilar,2024-08-11,Solicitud de autorización,234,1,0,1,0,0,HAM
+Teófilo Castillo,2024-08-11,August lottery millions,867,2,9,0,1,1,SPAM
+Rosenda Ponce,2024-08-12,Planificación fin de verano,356,1,1,1,0,0,HAM
+Aquilino Vega,2024-08-12,Easy cash air conditioning,1178,0,5,0,1,1,SPAM
+Gertrudis Ramírez,2024-08-13,Actualización de contactos,298,0,1,1,0,0,HAM
+Bautista Silva,2024-08-13,Click for cooling money,945,1,10,0,1,1,SPAM
+Dionisia Morales,2024-08-14,Propuesta de presupuesto,423,2,2,1,0,0,HAM
+Constantino López,2024-08-14,FREE CASH!!! Beat the heat,1089,0,6,0,1,1,SPAM
+Eusebia Jiménez,2024-08-15,Celebración Día de la Asunción,312,0,3,1,0,0,HAM
+Nemesio García,2024-08-15,Assumption Day cash prize,789,1,7,0,1,1,SPAM
+Jacinta Martín,2024-08-16,Informe de recursos agosto,378,2,0,1,0,0,HAM
+Apolinar Fernández,2024-08-16,Make money summer's end,1267,0,8,0,1,1,SPAM
+Escolástica Sánchez,2024-08-17,Confirmación de pedido especial,198,1,1,1,0,0,HAM
+Baldomero Rodríguez,2024-08-17,Get rich before autumn,923,2,9,0,1,1,SPAM
+Remedios González,2024-08-18,Solicitud de mantenimiento,245,0,0,1,0,0,HAM
+Doroteo Pérez,2024-08-18,Easy money last summer,1145,0,5,0,1,1,SPAM
+Crescencia Martínez,2024-08-19,Recordatorio de evaluación,289,1,1,1,0,0,HAM
+Isidoro Díaz,2024-08-19,Click for end summer cash,756,1,10,0,1,1,SPAM
+Felicitas Ruiz,2024-08-20,Planificación de septiembre,334,1,2,1,0,0,HAM
+Evaristo Hernández,2024-08-20,FREE MONEY!!! Last chance,1034,0,6,0,1,1,SPAM
+Primitiva Muñoz,2024-08-21,Propuesta de capacitación,456,2,1,1,0,0,HAM
+Servando Álvarez,2024-08-21,Win big before fall,867,1,7,0,1,1,SPAM
+Virtudes Romero,2024-08-22,Actualización de procedimientos,312,1,0,1,0,0,HAM
+Honorato Navarro,2024-08-22,Make money cooling off,1178,0,8,0,1,1,SPAM
+Casimira Torres,2024-08-23,Preparativos regreso a clases,367,1,2,1,0,0,HAM
+Saturnino Domínguez,2024-08-23,Back to school cash bonanza,1045,0,7,0,1,1,SPAM
+Visitación Vázquez,2024-08-24,Solicitud de material escolar,234,2,0,1,0,0,HAM
+Higinio Ramos,2024-08-24,Make money school shopping,912,1,8,0,1,1,SPAM
+Adoración Gil,2024-08-25,Confirmación de evento familiar,198,0,1,1,0,0,HAM
+Bienvenido Serrano,2024-08-25,Get rich before September,1178,0,5,0,1,1,SPAM
+Genoveva Guerrero,2024-08-26,Informe de cierre agosto,423,2,1,1,0,0,HAM
+Perfecto Castro,2024-08-26,FREE MONEY!!! School supplies,867,1,9,0,1,1,SPAM
+Presentación Ortega,2024-08-27,Planificación inicio septiembre,312,1,2,1,0,0,HAM
+Inocencio Delgado,2024-08-27,Easy cash for education,1267,0,6,0,1,1,SPAM
+Primitiva Herrera,2024-08-28,Recordatorio de capacitación,289,0,1,1,0,0,HAM
+Abundio Medina,2024-08-28,Win big back to school,789,2,10,0,1,1,SPAM
+Filomena Aguilar,2024-08-29,Actualización de políticas,356,1,0,1,0,0,HAM
+Cesáreo Castillo,2024-08-29,Click for school money,1034,0,7,0,1,1,SPAM
+Ascensión Ponce,2024-08-30,Resumen mensual agosto,445,2,2,1,0,0,HAM
+Delfín Vega,2024-08-30,Make thousands studying,923,1,8,0,1,1,SPAM
+Nicomedes Ramírez,2024-08-31,Preparación para septiembre,298,1,1,1,0,0,HAM
+Florencio Silva,2024-08-31,August finale cash prize,1145,0,5,0,1,1,SPAM
+Crescencia Morales,2024-09-01,Inicio de septiembre - objetivos,334,0,2,1,0,0,HAM
+Hermenegildo López,2024-09-01,September fortune starts,756,1,9,0,1,1,SPAM
+Epifanía Jiménez,2024-09-02,Solicitud de recursos otoño,412,2,1,1,0,0,HAM
+Telesforo García,2024-09-02,Fall money opportunity,1178,0,6,0,1,1,SPAM
+Candelaria Martín,2024-09-03,Confirmación de reunión trimestral,234,1,1,1,0,0,HAM
+Anacleto Fernández,2024-09-03,FREE CASH!!! Autumn bonus,867,2,7,0,1,1,SPAM
+Sinforosa Sánchez,2024-09-04,Propuesta de mejora continua,467,1,2,1,0,0,HAM
+Policarpo Rodríguez,2024-09-04,Get rich fall season,1089,0,8,0,1,1,SPAM
+Escolástica González,2024-09-05,Recordatorio evento corporativo,189,0,1,1,0,0,HAM
+Pancracio Pérez,2024-09-05,Easy money autumn leaves,945,1,10,0,1,1,SPAM
+Librada Martínez,2024-09-06,Actualización sistema informático,378,1,0,1,0,0,HAM
+Hermógenes Díaz,2024-09-06,Make money harvesting,1267,0,5,0,1,1,SPAM
+Basilisa Ruiz,2024-09-07,Informe de productividad,312,2,1,1,0,0,HAM
+Jenaro Hernández,2024-09-07,Click for harvest cash,789,1,9,0,1,1,SPAM
+Leocadia Muñoz,2024-09-08,Solicitud de vacaciones otoño,245,0,0,1,0,0,HAM
+Crisanto Álvarez,2024-09-08,Fall lottery millions,1034,0,6,0,1,1,SPAM
+Aurea Romero,2024-09-09,Planificación Q4,423,2,2,1,0,0,HAM
+Macedonio Navarro,2024-09-09,FREE MONEY!!! Season change,923,2,7,0,1,1,SPAM
+Feliciana Torres,2024-09-10,Confirmación de pedido urgente,198,1,1,1,0,0,HAM
+Longinos Domínguez,2024-09-10,Get paid leaf watching,1145,0,8,0,1,1,SPAM
+Perpetua Vázquez,2024-09-11,Recordatorio día del maestro,289,0,3,1,0,0,HAM
+Eustaquio Ramos,2024-09-11,Teacher's Day cash bonus,756,1,5,0,1,1,SPAM
+Natividad Gil,2024-09-12,Propuesta de capacitación docente,456,2,1,1,0,0,HAM
+Facundo Serrano,2024-09-12,Easy money teaching online,1178,0,9,0,1,1,SPAM
+Consolación Guerrero,2024-09-13,Actualización de procedimientos,334,1,2,1,0,0,HAM
+Remigio Castro,2024-09-13,Make thousands tutoring,867,2,10,0,1,1,SPAM
+Salustiana Ortega,2024-09-14,Solicitud de autorización,267,0,0,1,0,0,HAM
+Melquiades Delgado,2024-09-14,Click for education cash,1089,0,6,0,1,1,SPAM
+Estefanía Herrera,2024-09-15,Celebración mes patrio,378,1,3,1,0,0,HAM
+Fructuoso Medina,2024-09-15,Independence fortune prize,945,1,7,0,1,1,SPAM
+Victoriana Aguilar,2024-09-16,Confirmación evento patriótico,234,0,2,1,0,0,HAM
+Celedonio Castillo,2024-09-16,FREE CASH!!! Mexico celebration,1267,0,8,0,1,1,SPAM
+Digna Ponce,2024-09-17,Informe mensual septiembre,412,2,1,1,0,0,HAM
+Plácido Vega,2024-09-17,Get rich patriotic season,789,1,5,0,1,1,SPAM
+Serafina Ramírez,2024-09-18,Planificación fin de trimestre,356,1,1,1,0,0,HAM
+Anselmo Silva,2024-09-18,Easy money flag waving,1034,0,9,0,1,1,SPAM
+Benita Morales,2024-09-19,Recordatorio de junta directiva,198,0,1,1,0,0,HAM
+Eusebio López,2024-09-19,Make money celebrating,1145,2,10,0,1,1,SPAM
+Máxima Jiménez,2024-09-20,Solicitud de recursos adicionales,445,2,0,1,0,0,HAM
+Valerio García,2024-09-20,Click for fiesta cash,923,0,6,0,1,1,SPAM
+Felisa Martín,2024-09-21,Actualización base de datos,298,1,2,1,0,0,HAM
+Cayetano Fernández,2024-09-21,Fall equinox fortune,756,1,7,0,1,1,SPAM
+Bernardina Sánchez,2024-09-22,Propuesta de alianza estratégica,467,2,1,1,0,0,HAM
+Hipólito Rodríguez,2024-09-22,FREE MONEY!!! Season balance,1178,0,8,0,1,1,SPAM
+Florencia González,2024-09-23,Confirmación de asistencia,189,1,1,1,0,0,HAM
+Marcelino Pérez,2024-09-23,Get rich autumn equinox,867,1,5,0,1,1,SPAM
+Nemesia Martínez,2024-09-24,Recordatorio evento otoñal,312,0,2,1,0,0,HAM
+Cándido Díaz,2024-09-24,Easy money leaf season,1089,0,9,0,1,1,SPAM
+Práxedes Ruiz,2024-09-25,Informe de calidad Q3,423,2,1,1,0,0,HAM
+Saturnino Hernández,2024-09-25,Make thousands raking,1267,2,10,0,1,1,SPAM
+Obdulia Muñoz,2024-09-26,Solicitud de mantenimiento,234,0,0,1,0,0,HAM
+Prudencio Álvarez,2024-09-26,Click for yard work cash,945,0,6,0,1,1,SPAM
+Matilde Romero,2024-09-27,Planificación de octubre,378,1,2,1,0,0,HAM
+Agapito Navarro,2024-09-27,FREE CASH!!! October prep,789,1,7,0,1,1,SPAM
+Basilisa Torres,2024-09-28,Actualización de contactos,267,1,1,1,0,0,HAM
+Tiburcio Domínguez,2024-09-28,Get paid for Halloween,1034,0,8,0,1,1,SPAM
+Celestina Vázquez,2024-09-29,Propuesta de presupuesto Q4,456,2,1,1,0,0,HAM
+Modesto Ramos,2024-09-29,Easy money costume party,1145,1,9,0,1,1,SPAM
+Gumersinda Gil,2024-09-30,Resumen trimestral Q3,445,2,0,1,0,0,HAM
+Pantaleón Serrano,2024-09-30,September finale fortune,923,0,5,0,1,1,SPAM
+Ubaldina Guerrero,2024-10-01,Inicio de octubre - Halloween,334,0,3,1,0,0,HAM
+Teófilo Castro,2024-10-01,October cash carnival,756,1,10,0,1,1,SPAM
+Rosenda Ortega,2024-10-02,Solicitud de decoraciones,198,1,1,1,0,0,HAM
+Aquilino Delgado,2024-10-02,FREE MONEY!!! Spooky bonus,1178,0,6,0,1,1,SPAM
+Gertrudis Herrera,2024-10-03,Confirmación evento Halloween,289,0,2,1,0,0,HAM
+Bautista Medina,2024-10-03,Make money trick treating,867,2,7,0,1,1,SPAM
+Dionisia Aguilar,2024-10-04,Actualización política seguridad,412,1,1,1,0,0,HAM
+Constantino Castillo,2024-10-04,Get rich haunted house,1089,0,8,0,1,1,SPAM
+Eusebia Ponce,2024-10-05,Informe de recursos octubre,356,2,0,1,0,0,HAM
+Nemesio Vega,2024-10-05,Click for candy cash,945,1,9,0,1,1,SPAM
+Jacinta Ramírez,2024-10-06,Recordatorio de capacitación,234,0,1,1,0,0,HAM
+Apolinar Silva,2024-10-06,Easy money costume contest,1267,0,5,0,1,1,SPAM
+Escolástica Morales,2024-10-07,Planificación evento anual,467,1,2,1,0,0,HAM
+Baldomero López,2024-10-07,FREE CASH!!! Pumpkin patch,789,2,10,0,1,1,SPAM
+Remedios Jiménez,2024-10-08,Propuesta mejora procesos,378,2,1,1,0,0,HAM
+Doroteo García,2024-10-08,Make thousands carving,1034,0,6,0,1,1,SPAM
+Crescencia Martín,2024-10-09,Confirmación de pedido especial,189,1,1,1,0,0,HAM
+Isidoro Fernández,2024-10-09,Get paid for scares,1145,1,7,0,1,1,SPAM
+Felicitas Sánchez,2024-10-10,Solicitud de recursos técnicos,312,0,0,1,0,0,HAM
+Evaristo Rodríguez,2024-10-10,Click for monster money,923,0,8,0,1,1,SPAM
+Primitiva González,2024-10-11,Actualización sistema contable,423,1,2,1,0,0,HAM
+Servando Pérez,2024-10-11,Easy money ghost hunting,756,2,9,0,1,1,SPAM
+Virtudes Martínez,2024-10-12,Recordatorio Día de la Raza,298,0,3,1,0,0,HAM
+Honorato Díaz,2024-10-12,Columbus Day cash discovery,1178,0,5,0,1,1,SPAM
+Casimira Ruiz,2024-10-13,Informe semanal octubre,345,2,1,1,0,0,HAM
+Saturnino Hernández,2024-10-13,FREE MONEY!!! Discovery bonus,867,1,10,0,1,1,SPAM
+Visitación Muñoz,2024-10-14,Propuesta de colaboración,456,1,2,1,0,0,HAM
+Higinio Álvarez,2024-10-14,Make money exploring,1089,0,6,0,1,1,SPAM
+Adoración Romero,2024-10-15,Planificación medio octubre,267,0,1,1,0,0,HAM
+Bienvenido Navarro,2024-10-15,Get rich treasure hunting,945,2,7,0,1,1,SPAM
+Genoveva Torres,2024-10-16,Solicitud de presupuesto Q4,423,2,1,1,0,0,HAM
+Perfecto Domínguez,2024-10-16,Click for Halloween fortune,1034,0,8,0,1,1,SPAM
+Presentación Vázquez,2024-10-17,Confirmación evento corporativo,234,1,2,1,0,0,HAM
+Inocencio Ramos,2024-10-17,Make money trick treating,867,1,9,0,1,1,SPAM
+Primitiva Gil,2024-10-18,Actualización de inventario,298,0,1,1,0,0,HAM
+Abundio Serrano,2024-10-18,FREE CASH!!! Costume contest,1145,0,5,0,1,1,SPAM
+Filomena Guerrero,2024-10-19,Informe de ventas octubre,378,2,0,1,0,0,HAM
+Cesáreo Castro,2024-10-19,Get rich pumpkin picking,923,2,7,0,1,1,SPAM
+Ascensión Ortega,2024-10-20,Recordatorio de junta mensual,189,0,1,1,0,0,HAM
+Delfín Delgado,2024-10-20,Easy money haunted tours,1178,0,6,0,1,1,SPAM
+Nicomedes Herrera,2024-10-21,Planificación evento Día Muertos,456,1,3,1,0,0,HAM
+Florencio Medina,2024-10-21,Make thousands ghost stories,756,1,10,0,1,1,SPAM
+Crescencia Aguilar,2024-10-22,Propuesta de mejora sistemas,412,2,2,1,0,0,HAM
+Hermenegildo Castillo,2024-10-22,Click for spooky riches,1089,0,8,0,1,1,SPAM
+Epifanía Ponce,2024-10-23,Solicitud de recursos adicionales,267,1,0,1,0,0,HAM
+Telesforo Vega,2024-10-23,FREE MONEY!!! Midnight bonus,945,1,9,0,1,1,SPAM
+Candelaria Ramírez,2024-10-24,Confirmación de capacitación,234,0,1,1,0,0,HAM
+Anacleto Silva,2024-10-24,Get paid for horror movies,1267,0,5,0,1,1,SPAM
+Sinforosa Morales,2024-10-25,Actualización de políticas,334,1,1,1,0,0,HAM
+Policarpo López,2024-10-25,Easy money candy sales,789,2,7,0,1,1,SPAM
+Escolástica Jiménez,2024-10-26,Recordatorio evento Halloween,298,0,2,1,0,0,HAM
+Pancracio García,2024-10-26,Make money decorating,1034,0,6,0,1,1,SPAM
+Librada Martín,2024-10-27,Informe de productividad,423,2,1,1,0,0,HAM
+Hermógenes Fernández,2024-10-27,Click for monster cash,1145,1,8,0,1,1,SPAM
+Basilisa Sánchez,2024-10-28,Solicitud de mantenimiento,189,1,0,1,0,0,HAM
+Jenaro Rodríguez,2024-10-28,FREE CASH!!! Zombie bonus,923,0,9,0,1,1,SPAM
+Leocadia González,2024-10-29,Planificación fin octubre,356,0,2,1,0,0,HAM
+Crisanto Pérez,2024-10-29,Get rich vampire hunting,756,2,10,0,1,1,SPAM
+Aurea Martínez,2024-10-30,Confirmación evento Noche Brujas,312,1,3,1,0,0,HAM
+Macedonio Díaz,2024-10-30,Easy money witches brew,1178,0,7,0,1,1,SPAM
+Feliciana Ruiz,2024-10-31,Celebración Halloween corporativo,445,0,4,1,0,0,HAM
+Longinos Hernández,2024-10-31,Halloween finale fortune,867,1,5,0,1,1,SPAM
+Perpetua Muñoz,2024-11-01,Día de Todos los Santos - mensaje,234,1,2,1,0,0,HAM
+Eustaquio Álvarez,2024-11-01,All Saints Day cash blessing,1089,0,8,0,1,1,SPAM
+Natividad Romero,2024-11-02,Día de Muertos - tradición corporativa,378,0,3,1,0,0,HAM
+Facundo Navarro,2024-11-02,Day of Dead money ritual,945,2,6,0,1,1,SPAM
+Consolación Torres,2024-11-03,Inicio de noviembre - planificación,298,1,1,1,0,0,HAM
+Remigio Domínguez,2024-11-03,FREE CASH!!! November starts,1267,0,9,0,1,1,SPAM
+Salustiana Vázquez,2024-11-04,Actualización sistema contable,423,2,0,1,0,0,HAM
+Melquiades Ramos,2024-11-04,Make money leaf collecting,789,1,7,0,1,1,SPAM
+Estefanía Gil,2024-11-05,Recordatorio elecciones USA,334,0,2,1,0,0,HAM
+Fructuoso Serrano,2024-11-05,Election Day cash bonus,1034,0,10,0,1,1,SPAM
+Victoriana Guerrero,2024-11-06,Solicitud de recursos noviembre,412,1,1,1,0,0,HAM
+Celedonio Castro,2024-11-06,Get rich voting rewards,1145,1,8,0,1,1,SPAM
+Digna Ortega,2024-11-07,Propuesta de presupuesto 2025,467,2,2,1,0,0,HAM
+Plácido Delgado,2024-11-07,Click for democracy cash,923,0,5,0,1,1,SPAM
+Serafina Herrera,2024-11-08,Confirmación de reunión trimestral,189,1,1,1,0,0,HAM
+Anselmo Medina,2024-11-08,Easy money campaign work,756,2,9,0,1,1,SPAM
+Benita Aguilar,2024-11-09,Informe de calidad noviembre,356,1,0,1,0,0,HAM
+Eusebio Castillo,2024-11-09,FREE MONEY!!! Political bonus,1178,0,6,0,1,1,SPAM
+Máxima Ponce,2024-11-10,Actualización de contactos,245,0,1,1,0,0,HAM
+Valerio Vega,2024-11-10,Make thousands debating,867,1,7,0,1,1,SPAM
+Felisa Ramírez,2024-11-11,Día del Veterano - reconocimiento,312,1,3,1,0,0,HAM
+Cayetano Silva,2024-11-11,Veterans Day cash tribute,1089,0,8,0,1,1,SPAM
+Bernardina Morales,2024-11-12,Planificación pre-navideña,423,2,1,1,0,0,HAM
+Hipólito López,2024-11-12,Get paid holiday prep,945,2,10,0,1,1,SPAM
+Florencia Jiménez,2024-11-13,Solicitud de decoraciones navideñas,267,0,2,1,0,0,HAM
+Marcelino García,2024-11-13,Click for Christmas cash,1267,0,5,0,1,1,SPAM
+Nemesia Martín,2024-11-14,Recordatorio evento corporativo,234,1,1,1,0,0,HAM
+Cándido Fernández,2024-11-14,Easy money gift wrapping,789,1,9,0,1,1,SPAM
+Práxedes Sánchez,2024-11-15,Actualización políticas fin año,378,1,2,1,0,0,HAM
+Saturnino Rodríguez,2024-11-15,FREE CASH!!! Holiday shopping,1034,0,6,0,1,1,SPAM
+Obdulia González,2024-11-16,Confirmación pedido navideño,189,2,1,1,0,0,HAM
+Prudencio Pérez,2024-11-16,Make money Santa helper,1145,0,7,0,1,1,SPAM
+Matilde Martínez,2024-11-17,Informe mensual noviembre,445,2,0,1,0,0,HAM
+Agapito Díaz,2024-11-17,Get rich reindeer training,923,1,8,0,1,1,SPAM
+Basilisa Ruiz,2024-11-18,Propuesta alianza estratégica,456,1,2,1,0,0,HAM
+Tiburcio Hernández,2024-11-18,Click for North Pole cash,756,0,10,0,1,1,SPAM
+Celestina Muñoz,2024-11-19,Solicitud de capacitación final,298,0,1,1,0,0,HAM
+Modesto Álvarez,2024-11-19,Easy money elf workshop,1178,2,5,0,1,1,SPAM
+Gumersinda Romero,2024-11-20,Recordatorio de junta noviembre,234,1,0,1,0,0,HAM
+Pantaleón Navarro,2024-11-20,FREE CASH!!! Thanksgiving prep,867,0,9,0,1,1,SPAM
+Ubaldina Torres,2024-11-21,Planificación evento Thanksgiving,367,0,3,1,0,0,HAM
+Teófilo Domínguez,2024-11-21,Make money turkey hunting,1089,1,6,0,1,1,SPAM
+Rosenda Vázquez,2024-11-22,Confirmación menú corporativo,198,1,2,1,0,0,HAM
+Aquilino Ramos,2024-11-22,Get paid cooking turkey,945,0,7,0,1,1,SPAM
+Gertrudis Gil,2024-11-23,Actualización horarios festivos,312,1,1,1,0,0,HAM
+Bautista Serrano,2024-11-23,Click for gratitude cash,1267,0,8,0,1,1,SPAM
+Dionisia Guerrero,2024-11-24,Recordatorio cierre temporal,189,0,1,1,0,0,HAM
+Constantino Castro,2024-11-24,Easy money Black Friday,789,2,10,0,1,1,SPAM
+Eusebia Ortega,2024-11-25,Informe pre-Black Friday,334,2,2,1,0,0,HAM
+Nemesio Delgado,2024-11-25,FREE CASH!!! Shopping spree,1034,0,5,0,1,1,SPAM
+Jacinta Herrera,2024-11-26,Solicitud recursos Cyber Monday,423,1,1,1,0,0,HAM
+Apolinar Medina,2024-11-26,Make thousands online deals,1145,1,9,0,1,1,SPAM
+Escolástica Aguilar,2024-11-27,Planificación fin noviembre,278,0,2,1,0,0,HAM
+Baldomero Castillo,2024-11-27,Get rich holiday sales,923,0,6,0,1,1,SPAM
+Remedios Ponce,2024-11-28,Día de Acción Gracias mensaje,356,1,3,1,0,0,HAM
+Doroteo Vega,2024-11-28,Thanksgiving fortune feast,756,2,7,0,1,1,SPAM
+Crescencia Ramírez,2024-11-29,Confirmación Black Friday corporativo,245,0,4,1,0,0,HAM
+Isidoro Silva,2024-11-29,Click for shopping fortune,1178,0,8,0,1,1,SPAM
+Felicitas Morales,2024-11-30,Resumen mensual noviembre,445,2,1,1,0,0,HAM
+Evaristo López,2024-11-30,November finale cash drop,867,1,10,0,1,1,SPAM
+Primitiva Jiménez,2024-12-01,Inicio diciembre - Navidad,334,0,3,1,0,0,HAM
+Servando García,2024-12-01,December fortune calendar,1089,0,5,0,1,1,SPAM
+Virtudes Martín,2024-12-02,Solicitud presupuesto navideño,412,2,1,1,0,0,HAM
+Honorato Fernández,2024-12-02,FREE CASH!!! Christmas bonus,945,1,9,0,1,1,SPAM
+Casimira Sánchez,2024-12-03,Actualización calendario festivo,298,1,2,1,0,0,HAM
+Saturnino Rodríguez,2024-12-03,Make money Christmas trees,1267,0,6,0,1,1,SPAM
+Visitación González,2024-12-04,Confirmación fiesta navideña,234,0,4,1,0,0,HAM
+Higinio Pérez,2024-12-04,Get paid wrapping gifts,789,2,7,0,1,1,SPAM
+Adoración Martínez,2024-12-05,Propuesta evento fin año,467,1,2,1,0,0,HAM
+Bienvenido Díaz,2024-12-05,Easy money caroling,1034,0,8,0,1,1,SPAM
+Genoveva Ruiz,2024-12-06,Recordatorio Día San Nicolás,189,1,3,1,0,0,HAM
+Perfecto Hernández,2024-12-06,Click for Santa cash,1145,0,10,0,1,1,SPAM
+Presentación Muñoz,2024-12-07,Informe semanal diciembre,356,2,1,1,0,0,HAM
+Inocencio Álvarez,2024-12-07,FREE MONEY!!! Holiday miracle,923,1,5,0,1,1,SPAM
+Primitiva Romero,2024-12-08,Celebración Inmaculada Concepción,278,0,2,1,0,0,HAM
+Abundio Navarro,2024-12-08,Make thousands blessing,756,0,9,0,1,1,SPAM
+Filomena Torres,2024-12-09,Planificación Las Posadas corporativas,423,1,3,1,0,0,HAM
+Cesáreo Domínguez,2024-12-09,Get rich Christmas carols,1178,0,7,0,1,1,SPAM
+Ascensión Vázquez,2024-12-10,Solicitud de aguinaldos,356,2,1,1,0,0,HAM
+Delfín Ramos,2024-12-10,FREE CASH!!! Holiday bonus,945,1,8,0,1,1,SPAM
+Nicomedes Gil,2024-12-11,Confirmación cena navideña,234,0,2,1,0,0,HAM
+Florencio Serrano,2024-12-11,Make money mistletoe,867,0,9,0,1,1,SPAM
+Crescencia Guerrero,2024-12-12,Día Virgen Guadalupe mensaje,298,1,4,1,0,0,HAM
+Hermenegildo Castro,2024-12-12,Click for miracle money,1089,2,5,0,1,1,SPAM
+Epifanía Ortega,2024-12-13,Actualización inventario final,412,1,0,1,0,0,HAM
+Telesforo Delgado,2024-12-13,Easy money nativity scene,1267,0,6,0,1,1,SPAM
+Candelaria Herrera,2024-12-14,Recordatorio posada empresarial,189,0,3,1,0,0,HAM
+Anacleto Medina,2024-12-14,Get paid singing carols,789,1,10,0,1,1,SPAM
+Sinforosa Aguilar,2024-12-15,Informe trimestral Q4,445,2,1,1,0,0,HAM
+Policarpo Castillo,2024-12-15,FREE MONEY!!! Santa workshop,1034,0,7,0,1,1,SPAM
+Escolástica Ponce,2024-12-16,Propuesta presupuesto 2025,467,2,2,1,0,0,HAM
+Pancracio Vega,2024-12-16,Make thousands gift wrapping,923,1,8,0,1,1,SPAM
+Librada Ramírez,2024-12-17,Solicitud cierre anticipado,267,0,1,1,0,0,HAM
+Hermógenes Silva,2024-12-17,Click for Christmas fortune,756,0,9,0,1,1,SPAM
+Basilisa Morales,2024-12-18,Confirmación evento fin año,334,1,2,1,0,0,HAM
+Jenaro López,2024-12-18,Easy money holiday cookies,1145,2,5,0,1,1,SPAM
+Leocadia Jiménez,2024-12-19,Actualización horarios navideños,198,1,1,1,0,0,HAM
+Crisanto García,2024-12-19,Get rich New Year prep,867,0,6,0,1,1,SPAM
+Aurea Martín,2024-12-20,Recordatorio intercambio regalos,289,0,3,1,0,0,HAM
+Macedonio Fernández,2024-12-20,FREE CASH!!! Holiday shopping,1178,1,10,0,1,1,SPAM
+Feliciana Sánchez,2024-12-21,Solsticio invierno - mensaje,312,1,2,1,0,0,HAM
+Longinos Rodríguez,2024-12-21,Make money winter solstice,1089,0,7,0,1,1,SPAM
+Perpetua González,2024-12-22,Planificación última semana,378,2,1,1,0,0,HAM
+Eustaquio Pérez,2024-12-22,Click for year-end bonus,945,1,8,0,1,1,SPAM
+Natividad Martínez,2024-12-23,Confirmación horario Nochebuena,234,0,4,1,0,0,HAM
+Facundo Díaz,2024-12-23,Easy money Christmas Eve,1267,0,9,0,1,1,SPAM
+Consolación Ruiz,2024-12-24,Nochebuena - mensaje corporativo,356,1,5,1,0,0,HAM
+Remigio Hernández,2024-12-24,Get paid Christmas miracle,789,2,6,0,1,1,SPAM
+Salustiana Muñoz,2024-12-25,Feliz Navidad equipo,298,0,6,1,0,0,HAM
+Melquiades Álvarez,2024-12-25,Christmas Day cash gift,1034,0,8,0,1,1,SPAM
+Estefanía Romero,2024-12-26,Boxing Day - inventarios,412,1,1,1,0,0,HAM
+Fructuoso Navarro,2024-12-26,FREE MONEY!!! Post-Christmas,923,1,7,0,1,1,SPAM
+Victoriana Torres,2024-12-27,Solicitud mantenimiento fin año,189,2,0,1,0,0,HAM
+Celedonio Domínguez,2024-12-27,Make money holiday returns,1145,0,10,0,1,1,SPAM
+Digna Vázquez,2024-12-28,Recordatorio Santos Inocentes,267,0,2,1,0,0,HAM
+Plácido Ramos,2024-12-28,Click for innocent money,756,1,5,0,1,1,SPAM
+Serafina Gil,2024-12-29,Preparativos cierre año fiscal,445,2,1,1,0,0,HAM
+Anselmo Serrano,2024-12-29,Easy money year-end deals,1178,0,9,0,1,1,SPAM
+Benita Guerrero,2024-12-30,Informe anual 2024,467,2,2,1,0,0,HAM
+Eusebio Castro,2024-12-30,Get rich before midnight,867,1,8,0,1,1,SPAM
+Máxima Ortega,2024-12-31,Mensaje Fin Año - gratitud,334,0,3,1,0,0,HAM
+Valerio Delgado,2024-12-31,New Year fortune countdown,1089,0,6,0,1,1,SPAM
+Felisa Herrera,2025-01-01,Año Nuevo - nuevos objetivos,378,1,4,1,0,0,HAM
+Cayetano Medina,2025-01-01,FREE CASH!!! New Year bonus,945,2,7,0,1,1,SPAM
+Bernardina Aguilar,2025-01-02,Planificación primer trimestre,423,2,2,1,0,0,HAM
+Hipólito Castillo,2025-01-02,Make money resolutions,1267,0,10,0,1,1,SPAM
+Florencia Ponce,2025-01-03,Confirmación regreso laboral,234,1,1,1,0,0,HAM
+Marcelino Vega,2025-01-03,Click for resolution cash,789,1,5,0,1,1,SPAM
+Nemesia Ramírez,2025-01-04,Actualización sistema nuevo año,312,1,0,1,0,0,HAM
+Cándido Silva,2025-01-04,Easy money fresh start,1034,0,8,0,1,1,SPAM
+Práxedes Morales,2025-01-05,Recordatorio capacitación enero,298,0,1,1,0,0,HAM
+Saturnino López,2025-01-05,Get paid New Year goals,1145,1,9,0,1,1,SPAM
+Obdulia Jiménez,2025-01-06,Día Reyes Magos corporativo,356,1,5,1,0,0,HAM
+Prudencio García,2025-01-06,FREE MONEY!!! Three Kings bonus,923,0,6,0,1,1,SPAM
+Matilde Martín,2025-01-07,Propuesta innovación 2025,456,2,2,1,0,0,HAM
+Agapito Fernández,2025-01-07,Make thousands magic gifts,756,2,7,0,1,1,SPAM
+Basilisa Sánchez,2025-01-08,Solicitud recursos primer mes,412,1,1,1,0,0,HAM
+Tiburcio Rodríguez,2025-01-08,Click for magical riches,1178,0,10,0,1,1,SPAM
+Celestina González,2025-01-09,Informe productividad enero,334,2,0,1,0,0,HAM
+Modesto Pérez,2025-01-09,Easy money winter sales,867,1,8,0,1,1,SPAM
+Gumersinda Martínez,2025-01-10,Actualización políticas nuevas,378,1,2,1,0,0,HAM
+Pantaleón Díaz,2025-01-10,Get rich cold weather,1089,0,5,0,1,1,SPAM
+Ubaldina Ruiz,2025-01-11,Recordatorio junta directiva,189,0,1,1,0,0,HAM
+Teófilo Hernández,2025-01-11,FREE MONEY!!! January special,945,2,9,0,1,1,SPAM
+Rosenda Muñoz,2025-01-12,Confirmación presupuesto aprobado,467,2,1,1,0,0,HAM
+Aquilino Álvarez,2025-01-12,Make money snow removal,1267,0,6,0,1,1,SPAM
+Gertrudis Romero,2025-01-13,Planificación evento enero,298,1,2,1,0,0,HAM
+Bautista Navarro,2025-01-13,Click for winter fortune,789,1,7,0,1,1,SPAM
+Dionisia Torres,2025-01-14,Solicitud de mantenimiento,234,0,0,1,0,0,HAM
+Constantino Domínguez,2025-01-14,Easy money heating bills,1034,0,8,0,1,1,SPAM
+Eusebia Vázquez,2025-01-15,Actualización base datos clientes,423,1,1,1,0,0,HAM
+Nemesio Ramos,2025-01-15,Get paid staying warm,1145,2,10,0,1,1,SPAM
+Jacinta Gil,2025-01-16,Propuesta mejora procesos Q1,445,2,2,1,0,0,HAM
+Apolinar Serrano,2025-01-16,FREE CASH!!! Warm up bonus,923,0,5,0,1,1,SPAM
+Escolástica Guerrero,2025-01-17,Recordatorio capacitación obligatoria,267,1,1,1,0,0,HAM
+Baldomero Castro,2025-01-17,Make thousands ice fishing,756,1,9,0,1,1,SPAM
+Remedios Ortega,2025-01-18,Informe semanal enero,312,2,0,1,0,0,HAM
+Doroteo Delgado,2025-01-18,Click for cozy cash,1178,0,6,0,1,1,SPAM
+Crescencia Herrera,2025-01-19,Confirmación evento corporativo,356,0,3,1,0,0,HAM
+Isidoro Medina,2025-01-19,Easy money winter sports,867,2,7,0,1,1,SPAM
+Felicitas Aguilar,2025-01-20,Solicitud recursos adicionales,412,1,1,1,0,0,HAM
+Evaristo Castillo,2025-01-20,Get rich ski season,1089,0,8,0,1,1,SPAM
+Primitiva Ponce,2025-01-21,Actualización sistema contable,298,1,2,1,0,0,HAM
+Servando Vega,2025-01-21,FREE MONEY!!! Slope bonus,945,1,10,0,1,1,SPAM
+Virtudes Ramírez,2025-01-22,Planificación fin enero,378,2,1,1,0,0,HAM
+Honorato Silva,2025-01-22,Make money snowboarding,1267,0,5,0,1,1,SPAM
+Casimira Morales,2025-01-23,Recordatorio evaluaciones,234,0,1,1,0,0,HAM
+Saturnino López,2025-01-23,Click for avalanche cash,789,2,9,0,1,1,SPAM
+Visitación Jiménez,2025-01-24,Propuesta alianza comercial,456,2,2,1,0,0,HAM
+Higinio García,2025-01-24,Easy money frozen lakes,1034,0,6,0,1,1,SPAM
+Adoración Martín,2025-01-25,Confirmación reunión mensual,189,1,1,1,0,0,HAM
+Bienvenido Fernández,2025-01-25,Get paid ice skating,1145,1,7,0,1,1,SPAM
+Genoveva Sánchez,2025-01-26,Informe mensual enero,445,2,0,1,0,0,HAM
+Perfecto Rodríguez,2025-01-26,FREE CASH!!! Winter finale,923,0,8,0,1,1,SPAM
+Presentación González,2025-01-27,Solicitud presupuesto febrero,423,1,2,1,0,0,HAM
+Inocencio Pérez,2025-01-27,Make thousands thawing,756,2,10,0,1,1,SPAM
+Primitiva Martínez,2025-01-28,Actualización políticas febrero,334,1,1,1,0,0,HAM
+Abundio Díaz,2025-01-28,Click for spring prep cash,1178,0,5,0,1,1,SPAM
+Filomena Ruiz,2025-01-29,Recordatorio evento fin mes,267,0,2,1,0,0,HAM
+Cesáreo Hernández,2025-01-29,Easy money melting snow,867,1,9,0,1,1,SPAM
+Ascensión Muñoz,2025-01-30,Planificación febrero 2025,378,2,1,1,0,0,HAM
+Delfín Álvarez,2025-01-30,Get rich groundhog day,1089,0,6,0,1,1,SPAM
+Nicomedes Romero,2025-01-31,Resumen mensual enero 2025,445,2,2,1,0,0,HAM
+Florencio Navarro,2025-01-31,January finale fortune drop,945,1,7,0,1,1,SPAM
+Nicoll Naranjo,2025-01-30,Oprime para ganar un premio exclusivo,980,1,9,0,2,1,SPAM
+Duvan Alvarez,2025-01-31,Dinero GRATIS!!!,1005,1,5,0,1,2,SPAM
+Felipe Rincon,2025-01-28,Propuesta vacaciones,378,2,0,1,0,0,HAM
+Paola Gonzalez,2025-01-25,Seguimiento sobre el proyecto,192,2,1,1,0,0,HAM
+Emiliana Rodriguez,2025-01-21,Confirmación de la cita medica,433,1,0,1,0,0,HAM
+Wilson Gutierrez,2025-01-27,Planificación semanal,358,1,0,1,0,0,HAM
+Mariana Gomez,2024-02-08,Necesitamos tu ayuda para transferir 10 millones de dólares,210,0,6,0,1,1,SPAM

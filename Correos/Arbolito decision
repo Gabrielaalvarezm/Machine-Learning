@@ -1,0 +1,134 @@
+# ================================================
+#   ÁRBOL DE DECISIÓN PARA DETECTAR SPAM (50 ejecuciones)
+# ================================================
+# Gabriela Alvarez Martinez - Ivan Yesid Camargo Bocachica
+
+# Se importan librerías necesarias para el ejercicio
+# Pandas: Para manejar el dataset en forma de tabla
+# Numpy: Para cálculos matemáticos
+# Matplotlib: Para hacer gráficas de los resultados
+# Sklearn model_selection: Para dividir los datos de entrenamiento y prueba
+# Sklearn tree: Para usar el algoritmo del árbol de decisión
+# Sklearn metrics: Para medir exactitud y F1 score del modelo
+# Scipy stats: Para calcular el Z-score (medida estadística)
+# os: Para manejar rutas de archivos (hacer el código portátil)
+
+import pandas as pd                  
+import numpy as np                   
+import matplotlib.pyplot as plt      
+from sklearn.model_selection import train_test_split  
+from sklearn.tree import DecisionTreeClassifier      
+from sklearn.metrics import accuracy_score, f1_score  
+from scipy.stats import zscore        
+import os                             
+
+# ====================================================
+# 1. Cargar dataset usando ruta base (portátil)
+# ====================================================
+# Detecta automáticamente en qué carpeta está guardado este archivo .py
+ruta_base = os.path.dirname(os.path.abspath(__file__))
+# Une esa carpeta con el nombre del archivo de datos
+ruta_dataset = os.path.join(ruta_base, "Datasetml.csv")
+
+# Se cargamo el dataset en memoria
+datos = pd.read_csv(ruta_dataset)
+
+# ====================================================
+# 2. Preprocesamiento
+# ====================================================
+# La columna "clasificacion" tiene valores SPAM y HAM 
+# Como el modelo solo entiende números, se converten así:
+# HAM = 0 (correo normal)
+# SPAM = 1 (correo basura)
+datos["clasificacion"] = datos["clasificacion"].map({"HAM": 0, "SPAM": 1})
+
+# Se selecciona las columnas (características) que usaremos para entrenar el árbol.
+# Estas son como las "pistas" que se usan para decidir si un correo es SPAM o HAM.
+X = datos[["longitud_cuerpo", "num_adjuntos", "num_links",
+           "remitente_empresa", "contiene_palabras_dinero", "urgencia"]]
+# La variable "y" es lo que se quiere predecir: SPAM (1) o HAM (0)
+y = datos["clasificacion"]
+
+# ====================================================
+# 3. Ejecutar 50 veces el modelo
+# ====================================================
+# Se crean las listas vacías para guardar las métricas de cada ejecución
+f1_scores = []
+accuracies = []
+z_scores_medios = []
+
+# Se hace un ciclo que se repite 50 veces
+# Cada vez se entrena y se prueba un nuevo árbol de decisión
+for i in range(50):
+    # Se dividen los datos en dos grupos (entrenamiento y prueba)
+    # - 70% para entrenar al árbol
+    # - 30% para probarlo y ver qué tan bien funciona
+    Xentreno, Xpruebita, Yentreno, Ypruebita = train_test_split(
+        X, y, test_size=0.3
+    )
+    
+    # Se crea el modelo de árbol de decisión
+    modelo = DecisionTreeClassifier()
+    # Se entrena el modelo con los datos de entrenamiento
+    modelo.fit(Xentreno, Yentreno)
+
+    # Con el modelo entrenado, se hacen predicciones en los datos de prueba
+    Ypredi = modelo.predict(Xpruebita)
+
+    # Se calculan las métricas:
+    # F1 Score = qué tan equilibrado es el modelo al detectar SPAM
+    f1 = f1_score(Ypruebita, Ypredi)
+    # Exactitud = porcentaje de correos clasificados correctamente
+    acc = accuracy_score(Ypruebita, Ypredi)
+    # Z-score = mide cuánto se desvían los resultados de lo esperado
+    z_scores = zscore(Ypredi)
+
+    # Se guardan los resultados de esta ejecución
+    f1_scores.append(f1)
+    accuracies.append(acc)
+    z_scores_medios.append(np.mean(z_scores))  # Se guarda el promedio del Z-score
+
+# ====================================================
+# 4. Resultados finales
+# ====================================================
+# Se muestra en pantalla el promedio de las métricas en las 50 ejecuciones
+print("========================================")
+print("Promedio F1 Score en 50 ejecuciones:", np.mean(f1_scores))
+print("Promedio Exactitud en 50 ejecuciones:", np.mean(accuracies))
+print("Promedio Z-Score en 50 ejecuciones:", np.mean(z_scores_medios))
+print("========================================")
+
+# ====================================================
+# 5. Gráficas de las métricas
+# ====================================================
+# Se crea una figura con 3 gráficas (una para cada métrica)
+plt.figure(figsize=(12, 5))
+
+# 5.1 Gráfica del F1 Score
+plt.subplot(1, 3, 1)   # primera gráfica
+plt.plot(range(1, 51), f1_scores, marker="o", color="blue")
+plt.title("F1 Score en 50 ejecuciones")
+plt.xlabel("Ejecución")
+plt.ylabel("F1 Score")
+plt.grid()
+
+# 5.2 Gráfica de la Exactitud
+plt.subplot(1, 3, 2)   # segunda gráfica
+plt.plot(range(1, 51), accuracies, marker="o", color="green")
+plt.title("Exactitud en 50 ejecuciones")
+plt.xlabel("Ejecución")
+plt.ylabel("Exactitud")
+plt.grid()
+
+# 5.3 Gráfica del Z-Score
+plt.subplot(1, 3, 3)   # tercera gráfica
+plt.plot(range(1, 51), z_scores_medios, marker="o", color="red")
+plt.title("Z-Score medio en 50 ejecuciones")
+plt.xlabel("Ejecución")
+plt.ylabel("Z-Score")
+plt.grid()
+
+# Se ajusta el diseño para que no se encimen las gráficas
+plt.tight_layout()
+# Se muestran todas las gráficas en pantalla
+plt.show()
